@@ -1,0 +1,10 @@
+resource,term,coef,ci_low,ci_high,p
+carbon,"C(condition, Treatment(reference='unweighted'))[T.gat_weighted]",0.03414,-0.99529,1.06357,0.94818
+carbon,"C(condition, Treatment(reference='unweighted'))[T.random_control]",2.69042,1.66099,3.71985,0.0
+carbon,"C(condition, Treatment(reference='unweighted'))[T.random_control_calibrated]",0.58153,-0.44791,1.61096,0.26821
+electricity,"C(condition, Treatment(reference='unweighted'))[T.gat_weighted]",17.96906,-51.52395,87.46208,0.6123
+electricity,"C(condition, Treatment(reference='unweighted'))[T.random_control]",514.00555,444.51253,583.49856,0.0
+electricity,"C(condition, Treatment(reference='unweighted'))[T.random_control_calibrated]",211.98946,142.49644,281.48247,0.0
+water,"C(condition, Treatment(reference='unweighted'))[T.gat_weighted]",0.0318,-0.65928,0.72287,0.92814
+water,"C(condition, Treatment(reference='unweighted'))[T.random_control]",0.02036,-0.67072,0.71143,0.95396
+water,"C(condition, Treatment(reference='unweighted'))[T.random_control_calibrated]",-0.14772,-0.83879,0.54336,0.67526

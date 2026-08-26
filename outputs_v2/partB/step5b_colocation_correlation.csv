@@ -1,0 +1,4 @@
+resource,same_group_mean_corr,diff_group_mean_corr,N_pairs_same,N_pairs_diff,test,p
+carbon,0.2311,0.0575,1231,3234,Mann-Whitney U,0.0
+electricity,0.4076,0.0692,1231,3234,Mann-Whitney U,0.0
+water,0.4007,-0.01,79,197,Mann-Whitney U,0.0

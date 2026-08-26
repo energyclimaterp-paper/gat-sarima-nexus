@@ -1,0 +1,48 @@
+# ---------------------------------------------------------------- raw inputs
+# Third-party source data. Not redistributed here: 646 MB, and several files
+# exceed GitHub's 100 MB hard limit. See docs/RUNNING.md for how to obtain them.
+data/ember/
+data/aqueduct/
+data/g3p/
+data/datacenters.parquet
+
+# ------------------------------------------------------- bulk run artifacts
+# Per-site x per-model x per-month forecast dumps. ~103 MB (v2) + ~51 MB (v1),
+# fully regenerable, and none of the reported results depend on them.
+outputs/forecasts_*.csv
+outputs_v2/partB/forecasts_*.csv
+
+# Site-level metrics: explicitly NON-INFERENTIAL (sites within a region share a
+# forecast, so N is inflated). Kept out to avoid it being cited by accident.
+outputs/step5_metrics_site_resource.csv
+outputs_v2/partB/step5_metrics_site_resource.csv
+outputs/compare_sites.csv
+
+# Caches and duplicated checkpoints (the same artifacts are committed at the
+# top level of outputs_v2/partA/).
+outputs_v2/partB/*_cache.json
+outputs_v2/partA/checkpoints/
+
+# ------------------------------------------------------------------- python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# --------------------------------------------------------------------- logs
+*.log
+
+# ----------------------------------------------------------------- os cruft
+.DS_Store
+Thumbs.db
+
+# ------------------------------------------------- de-duplicated derived data
+# data/ holds byte-identical copies of Part A's output (verified by sha256).
+# outputs_v2/partA/ is the canonical location; data/ is the working copy Part B
+# reads from. Committing one copy is enough -- see docs/RUNNING.md to rebuild
+# data/ from outputs_v2/partA/ after cloning.
+data/weights/
+data/aligned_dataset.parquet
+data/graph_nodes.parquet

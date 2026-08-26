@@ -1,0 +1,857 @@
+resource,region,model,RMSE
+electricity,AUT,Nexus,418.89934884936355
+electricity,AUT,SARIMA,708.3636384716317
+electricity,AUT,TimesFM,423.902955827546
+electricity,AUT,xLSTM,511.65636161446747
+electricity,BEL,Nexus,616.8031672356365
+electricity,BEL,SARIMA,507.15302089433885
+electricity,BEL,TimesFM,717.3515481630928
+electricity,BEL,xLSTM,1116.376518350147
+electricity,BGR,Nexus,316.6448983818298
+electricity,BGR,SARIMA,222.96143258661786
+electricity,BGR,TimesFM,445.33369716901353
+electricity,BGR,xLSTM,357.6893934257854
+electricity,BIH,Nexus,124.72012067812769
+electricity,BIH,SARIMA,117.24933736903132
+electricity,BIH,TimesFM,119.47709686565857
+electricity,BIH,xLSTM,184.37794512195674
+electricity,CHE,Nexus,474.9875226575484
+electricity,CHE,SARIMA,1241.804387361759
+electricity,CHE,TimesFM,505.7335556733257
+electricity,CHE,xLSTM,827.9291449866155
+electricity,CYP,Nexus,24.445087868766464
+electricity,CYP,SARIMA,26.737876349615295
+electricity,CYP,TimesFM,29.86140282724009
+electricity,CYP,xLSTM,66.6188974534138
+electricity,CZE,Nexus,390.99900128451145
+electricity,CZE,SARIMA,324.4921614517796
+electricity,CZE,TimesFM,505.26706147384164
+electricity,CZE,xLSTM,449.1963394662721
+electricity,DEU,Nexus,2577.4949103864164
+electricity,DEU,SARIMA,4049.8650156240024
+electricity,DEU,TimesFM,2370.711593637041
+electricity,DEU,xLSTM,4555.251572752877
+electricity,DNK,Nexus,353.90074671120453
+electricity,DNK,SARIMA,554.9906062051218
+electricity,DNK,TimesFM,294.7237202631824
+electricity,DNK,xLSTM,256.7967208140486
+electricity,ESP,Nexus,925.8116758892231
+electricity,ESP,SARIMA,1051.9431011827933
+electricity,ESP,TimesFM,965.0810962642071
+electricity,ESP,xLSTM,1547.480997877752
+electricity,EST,Nexus,168.0041148064552
+electricity,EST,SARIMA,154.59451207268003
+electricity,EST,TimesFM,126.91565469145415
+electricity,EST,xLSTM,172.6767402198236
+electricity,FIN,Nexus,496.777815940677
+electricity,FIN,SARIMA,434.07304992845735
+electricity,FIN,TimesFM,456.63188001251217
+electricity,FIN,xLSTM,615.7406679202961
+electricity,FRA,Nexus,3533.391804431452
+electricity,FRA,SARIMA,1882.16513005971
+electricity,FRA,TimesFM,3546.0685069119704
+electricity,FRA,xLSTM,3162.3751459855966
+electricity,GBR,Nexus,1444.579427055019
+electricity,GBR,SARIMA,1828.308650501645
+electricity,GBR,TimesFM,1478.9646766436647
+electricity,GBR,xLSTM,1343.378342699671
+electricity,GRC,Nexus,608.2692432026639
+electricity,GRC,SARIMA,365.8342606134562
+electricity,GRC,TimesFM,487.59030928334766
+electricity,GRC,xLSTM,713.7628376900459
+electricity,HRV,Nexus,196.3456340436925
+electricity,HRV,SARIMA,217.72393380451356
+electricity,HRV,TimesFM,214.8475251730307
+electricity,HRV,xLSTM,237.97070316247158
+electricity,HUN,Nexus,157.49714951468155
+electricity,HUN,SARIMA,181.34408662551812
+electricity,HUN,TimesFM,163.5966565416512
+electricity,HUN,xLSTM,438.1356790842087
+electricity,IND|delhi,Nexus,134.1560149015128
+electricity,IND|delhi,SARIMA,147.51898045520576
+electricity,IND|delhi,TimesFM,132.69063113276198
+electricity,IND|delhi,xLSTM,199.91011593477432
+electricity,IND|gujarat,Nexus,2476.906576480732
+electricity,IND|gujarat,SARIMA,2290.8394888178427
+electricity,IND|gujarat,TimesFM,2078.286420327173
+electricity,IND|gujarat,xLSTM,2339.869884262191
+electricity,IND|karnataka,Nexus,942.3832124784523
+electricity,IND|karnataka,SARIMA,748.1968633042248
+electricity,IND|karnataka,TimesFM,999.9994337553643
+electricity,IND|karnataka,xLSTM,1196.0137118720395
+electricity,IND|kerala,Nexus,385.5034063439427
+electricity,IND|kerala,SARIMA,435.72399282744834
+electricity,IND|kerala,TimesFM,430.2667442173235
+electricity,IND|kerala,xLSTM,402.4270980028977
+electricity,IND|maharashtra,Nexus,674.1637174652633
+electricity,IND|maharashtra,SARIMA,1035.2384153257044
+electricity,IND|maharashtra,TimesFM,748.5209984330149
+electricity,IND|maharashtra,xLSTM,814.912852779788
+electricity,IND|odisha,Nexus,395.4466659662455
+electricity,IND|odisha,SARIMA,494.8399409182869
+electricity,IND|odisha,TimesFM,488.0130867858219
+electricity,IND|odisha,xLSTM,516.8181776903432
+electricity,IND|rajasthan,Nexus,841.1908219044838
+electricity,IND|rajasthan,SARIMA,834.0660465025534
+electricity,IND|rajasthan,TimesFM,1014.5162213500407
+electricity,IND|rajasthan,xLSTM,1009.2066024456024
+electricity,IND|tamil nadu,Nexus,889.0538750857098
+electricity,IND|tamil nadu,SARIMA,1019.0018212421666
+electricity,IND|tamil nadu,TimesFM,868.1557220431228
+electricity,IND|tamil nadu,xLSTM,1652.4944737729497
+electricity,IND|telangana,Nexus,455.5289784486487
+electricity,IND|telangana,SARIMA,459.84044023862583
+electricity,IND|telangana,TimesFM,568.5726352359
+electricity,IND|telangana,xLSTM,535.1067015835278
+electricity,IND|uttar pradesh,Nexus,860.3942299890498
+electricity,IND|uttar pradesh,SARIMA,1150.7518576418317
+electricity,IND|uttar pradesh,TimesFM,669.8341549220474
+electricity,IND|uttar pradesh,xLSTM,989.732723970849
+electricity,IND|west bengal,Nexus,516.7961617730929
+electricity,IND|west bengal,SARIMA,450.0275024781371
+electricity,IND|west bengal,TimesFM,500.97645057506026
+electricity,IND|west bengal,xLSTM,535.4095284666212
+electricity,IRL,Nexus,90.40194405550045
+electricity,IRL,SARIMA,117.5225850456368
+electricity,IRL,TimesFM,108.85410191767502
+electricity,IRL,xLSTM,139.760399111289
+electricity,ITA,Nexus,923.4780132348948
+electricity,ITA,SARIMA,1244.8914205851734
+electricity,ITA,TimesFM,926.3628474141761
+electricity,ITA,xLSTM,1359.0082744889348
+electricity,LTU,Nexus,112.58040016211733
+electricity,LTU,SARIMA,174.84583434654456
+electricity,LTU,TimesFM,114.45213454862096
+electricity,LTU,xLSTM,189.28687037336485
+electricity,LUX,Nexus,9.561742984531326
+electricity,LUX,SARIMA,15.674352123288186
+electricity,LUX,TimesFM,9.251206035441848
+electricity,LUX,xLSTM,15.76949876175295
+electricity,LVA,Nexus,132.24442355964604
+electricity,LVA,SARIMA,330.4069672835155
+electricity,LVA,TimesFM,161.52398039669526
+electricity,LVA,xLSTM,103.57493065685121
+electricity,MDA,Nexus,27.10136740269979
+electricity,MDA,SARIMA,46.399591083352405
+electricity,MDA,TimesFM,36.09591351000806
+electricity,MDA,xLSTM,26.57595372092945
+electricity,MKD,Nexus,64.84052271275384
+electricity,MKD,SARIMA,89.35149017135686
+electricity,MKD,TimesFM,53.04545495371784
+electricity,MKD,xLSTM,82.84623238859001
+electricity,MLT,Nexus,17.66489498037411
+electricity,MLT,SARIMA,31.710915984228727
+electricity,MLT,TimesFM,18.37122220374573
+electricity,MLT,xLSTM,23.683876376298695
+electricity,NLD,Nexus,958.1575147424006
+electricity,NLD,SARIMA,854.5805605284535
+electricity,NLD,TimesFM,1079.3064334655892
+electricity,NLD,xLSTM,1640.0508170730388
+electricity,NOR,Nexus,1113.8714918755877
+electricity,NOR,SARIMA,1275.9724777672664
+electricity,NOR,TimesFM,1135.8902501503226
+electricity,NOR,xLSTM,1413.5273946577395
+electricity,POL,Nexus,717.1051876342192
+electricity,POL,SARIMA,575.4052907827638
+electricity,POL,TimesFM,640.7583755134165
+electricity,POL,xLSTM,732.9543702098046
+electricity,PRT,Nexus,315.83545875639635
+electricity,PRT,SARIMA,460.45754111212136
+electricity,PRT,TimesFM,390.8784699549472
+electricity,PRT,xLSTM,531.2738816178381
+electricity,ROU,Nexus,243.20335212296206
+electricity,ROU,SARIMA,211.97157073579703
+electricity,ROU,TimesFM,281.1500687763022
+electricity,ROU,xLSTM,408.74225419688725
+electricity,SRB,Nexus,163.2504016026258
+electricity,SRB,SARIMA,148.6793654254276
+electricity,SRB,TimesFM,175.39049747949508
+electricity,SRB,xLSTM,229.62513199424984
+electricity,SVK,Nexus,168.09105920106546
+electricity,SVK,SARIMA,190.49869198417235
+electricity,SVK,TimesFM,191.6633185213765
+electricity,SVK,xLSTM,130.9205390292076
+electricity,SVN,Nexus,179.03132059631415
+electricity,SVN,SARIMA,346.8593142579237
+electricity,SVN,TimesFM,204.3709525775404
+electricity,SVN,xLSTM,182.32084698136376
+electricity,SWE,Nexus,661.7085953219064
+electricity,SWE,SARIMA,745.4169649375757
+electricity,SWE,TimesFM,680.1876643809626
+electricity,SWE,xLSTM,860.2668113626737
+electricity,TUR,Nexus,1057.1972017356297
+electricity,TUR,SARIMA,912.8049921229747
+electricity,TUR,TimesFM,1173.3946478712362
+electricity,TUR,xLSTM,3911.320056036031
+electricity,USA|alabama,Nexus,661.2061251450334
+electricity,USA|alabama,SARIMA,674.0818367355125
+electricity,USA|alabama,TimesFM,654.4548630631313
+electricity,USA|alabama,xLSTM,833.860478191399
+electricity,USA|arizona,Nexus,330.87922493325976
+electricity,USA|arizona,SARIMA,497.64225685968574
+electricity,USA|arizona,TimesFM,432.6916684207311
+electricity,USA|arizona,xLSTM,888.0670060792106
+electricity,USA|arkansas,Nexus,650.7516639575334
+electricity,USA|arkansas,SARIMA,612.472396116147
+electricity,USA|arkansas,TimesFM,683.1676153551768
+electricity,USA|arkansas,xLSTM,670.3692564788153
+electricity,USA|california,Nexus,882.0482185813187
+electricity,USA|california,SARIMA,1615.3721932624287
+electricity,USA|california,TimesFM,1050.5909775554558
+electricity,USA|california,xLSTM,1038.920395296246
+electricity,USA|colorado,Nexus,258.4866715355539
+electricity,USA|colorado,SARIMA,295.130937467329
+electricity,USA|colorado,TimesFM,233.47938042969213
+electricity,USA|colorado,xLSTM,437.21155074098806
+electricity,USA|connecticut,Nexus,203.58269985765563
+electricity,USA|connecticut,SARIMA,253.68421471123935
+electricity,USA|connecticut,TimesFM,236.21419661866992
+electricity,USA|connecticut,xLSTM,514.7855825852577
+electricity,USA|delaware,Nexus,134.66040936980835
+electricity,USA|delaware,SARIMA,105.39060051312558
+electricity,USA|delaware,TimesFM,136.65166068385454
+electricity,USA|delaware,xLSTM,142.25230070991876
+electricity,USA|florida,Nexus,749.1199403558483
+electricity,USA|florida,SARIMA,705.7297579961227
+electricity,USA|florida,TimesFM,617.8126877875228
+electricity,USA|florida,xLSTM,1078.0147743913958
+electricity,USA|georgia,Nexus,1018.2151771454693
+electricity,USA|georgia,SARIMA,704.5089600083962
+electricity,USA|georgia,TimesFM,1139.5100285593194
+electricity,USA|georgia,xLSTM,1125.6563152463184
+electricity,USA|idaho,Nexus,213.84576453106087
+electricity,USA|idaho,SARIMA,280.235071559056
+electricity,USA|idaho,TimesFM,310.72278823307556
+electricity,USA|idaho,xLSTM,215.15029269437184
+electricity,USA|illinois,Nexus,976.4751735891972
+electricity,USA|illinois,SARIMA,887.7810317797332
+electricity,USA|illinois,TimesFM,1024.093295556644
+electricity,USA|illinois,xLSTM,793.9080702500829
+electricity,USA|indiana,Nexus,1185.9098588891848
+electricity,USA|indiana,SARIMA,1227.648267196616
+electricity,USA|indiana,TimesFM,1364.6538685522728
+electricity,USA|indiana,xLSTM,1601.0501540144248
+electricity,USA|iowa,Nexus,537.856850625461
+electricity,USA|iowa,SARIMA,637.7599434227118
+electricity,USA|iowa,TimesFM,563.152805384926
+electricity,USA|iowa,xLSTM,692.3194477955664
+electricity,USA|kansas,Nexus,479.7778167466518
+electricity,USA|kansas,SARIMA,565.1216796352452
+electricity,USA|kansas,TimesFM,588.0624056485833
+electricity,USA|kansas,xLSTM,655.8376343553996
+electricity,USA|kentucky,Nexus,657.1323683084639
+electricity,USA|kentucky,SARIMA,927.537110468715
+electricity,USA|kentucky,TimesFM,728.0636348963819
+electricity,USA|kentucky,xLSTM,1033.6614046483623
+electricity,USA|louisiana,Nexus,576.2821224678158
+electricity,USA|louisiana,SARIMA,595.0709096571225
+electricity,USA|louisiana,TimesFM,491.80950745437565
+electricity,USA|louisiana,xLSTM,519.7211756506281
+electricity,USA|maine,Nexus,206.52659962416317
+electricity,USA|maine,SARIMA,201.70368943829004
+electricity,USA|maine,TimesFM,196.61234103066244
+electricity,USA|maine,xLSTM,234.14289553324667
+electricity,USA|maryland,Nexus,351.7482687353854
+electricity,USA|maryland,SARIMA,399.9902247383926
+electricity,USA|maryland,TimesFM,341.09917735719705
+electricity,USA|maryland,xLSTM,468.34440475537406
+electricity,USA|massachusetts,Nexus,222.8416408325612
+electricity,USA|massachusetts,SARIMA,290.9749079608733
+electricity,USA|massachusetts,TimesFM,269.0517107242449
+electricity,USA|massachusetts,xLSTM,431.4222683076636
+electricity,USA|michigan,Nexus,656.0282635887621
+electricity,USA|michigan,SARIMA,553.9916242362917
+electricity,USA|michigan,TimesFM,788.4601863591155
+electricity,USA|michigan,xLSTM,998.8775910820771
+electricity,USA|minnesota,Nexus,255.80210179864446
+electricity,USA|minnesota,SARIMA,366.11145368651813
+electricity,USA|minnesota,TimesFM,275.28597757891964
+electricity,USA|minnesota,xLSTM,505.59257651559034
+electricity,USA|mississippi,Nexus,511.574733918453
+electricity,USA|mississippi,SARIMA,444.050765458089
+electricity,USA|mississippi,TimesFM,531.4656851464073
+electricity,USA|mississippi,xLSTM,762.987299890458
+electricity,USA|missouri,Nexus,466.6199073359638
+electricity,USA|missouri,SARIMA,1118.2446000194948
+electricity,USA|missouri,TimesFM,524.9498242203931
+electricity,USA|missouri,xLSTM,769.4683922527012
+electricity,USA|montana,Nexus,220.9074712179727
+electricity,USA|montana,SARIMA,215.0487335985101
+electricity,USA|montana,TimesFM,193.78430184978606
+electricity,USA|montana,xLSTM,242.42757675874802
+electricity,USA|nebraska,Nexus,228.54374970440477
+electricity,USA|nebraska,SARIMA,250.7377799593488
+electricity,USA|nebraska,TimesFM,225.79779975678323
+electricity,USA|nebraska,xLSTM,336.7776401123015
+electricity,USA|nevada,Nexus,243.88778457629408
+electricity,USA|nevada,SARIMA,248.5683036549031
+electricity,USA|nevada,TimesFM,269.70981931728494
+electricity,USA|nevada,xLSTM,224.12244849975872
+electricity,USA|new hampshire,Nexus,226.41470929321537
+electricity,USA|new hampshire,SARIMA,343.5694367316939
+electricity,USA|new hampshire,TimesFM,197.87919396965052
+electricity,USA|new hampshire,xLSTM,225.83786334085988
+electricity,USA|new jersey,Nexus,449.9472364181139
+electricity,USA|new jersey,SARIMA,511.53621930117237
+electricity,USA|new jersey,TimesFM,508.61454109990217
+electricity,USA|new jersey,xLSTM,516.4838308805637
+electricity,USA|new mexico,Nexus,343.22317131830926
+electricity,USA|new mexico,SARIMA,452.45029591946536
+electricity,USA|new mexico,TimesFM,350.66057252418796
+electricity,USA|new mexico,xLSTM,318.1000904982826
+electricity,USA|new york,Nexus,540.6889080117495
+electricity,USA|new york,SARIMA,522.4619647021082
+electricity,USA|new york,TimesFM,554.6320800670151
+electricity,USA|new york,xLSTM,453.32997453403766
+electricity,USA|north carolina,Nexus,712.0383001042496
+electricity,USA|north carolina,SARIMA,876.2572345511155
+electricity,USA|north carolina,TimesFM,701.2002546715413
+electricity,USA|north carolina,xLSTM,1085.6407779660178
+electricity,USA|north dakota,Nexus,268.41835680683005
+electricity,USA|north dakota,SARIMA,193.3272104071117
+electricity,USA|north dakota,TimesFM,273.3339840851329
+electricity,USA|north dakota,xLSTM,415.58008622465746
+electricity,USA|ohio,Nexus,1004.9613233546992
+electricity,USA|ohio,SARIMA,793.8991355086923
+electricity,USA|ohio,TimesFM,991.1377203049644
+electricity,USA|ohio,xLSTM,1426.3843078316097
+electricity,USA|oklahoma,Nexus,496.31781845028104
+electricity,USA|oklahoma,SARIMA,658.874674681976
+electricity,USA|oklahoma,TimesFM,527.793453331391
+electricity,USA|oklahoma,xLSTM,699.5738099942391
+electricity,USA|oregon,Nexus,394.47613735912324
+electricity,USA|oregon,SARIMA,418.14181837908546
+electricity,USA|oregon,TimesFM,378.43541991831546
+electricity,USA|oregon,xLSTM,406.46269424489265
+electricity,USA|pennsylvania,Nexus,1117.5900804241983
+electricity,USA|pennsylvania,SARIMA,917.6719807826795
+electricity,USA|pennsylvania,TimesFM,946.7738982499552
+electricity,USA|pennsylvania,xLSTM,1297.3704145643064
+electricity,USA|rhode island,Nexus,108.91302531210995
+electricity,USA|rhode island,SARIMA,61.98151405464923
+electricity,USA|rhode island,TimesFM,71.4192482972028
+electricity,USA|rhode island,xLSTM,81.8990581808722
+electricity,USA|south carolina,Nexus,714.889628894882
+electricity,USA|south carolina,SARIMA,467.90261661099936
+electricity,USA|south carolina,TimesFM,485.43856260345336
+electricity,USA|south carolina,xLSTM,558.8598297259193
+electricity,USA|south dakota,Nexus,204.98296674844858
+electricity,USA|south dakota,SARIMA,184.60227428947312
+electricity,USA|south dakota,TimesFM,220.9917618654549
+electricity,USA|south dakota,xLSTM,298.7279600934523
+electricity,USA|tennessee,Nexus,575.1006218530781
+electricity,USA|tennessee,SARIMA,625.6670726448071
+electricity,USA|tennessee,TimesFM,613.6552892571468
+electricity,USA|tennessee,xLSTM,936.831310259157
+electricity,USA|texas,Nexus,1834.3471883367488
+electricity,USA|texas,SARIMA,1631.9988130220547
+electricity,USA|texas,TimesFM,2626.496261322844
+electricity,USA|texas,xLSTM,1725.086094191821
+electricity,USA|utah,Nexus,329.6691237744451
+electricity,USA|utah,SARIMA,349.6001503374339
+electricity,USA|utah,TimesFM,314.3284884664476
+electricity,USA|utah,xLSTM,320.62151050429173
+electricity,USA|vermont,Nexus,22.31406406602249
+electricity,USA|vermont,SARIMA,35.76951006042652
+electricity,USA|vermont,TimesFM,21.610704257055602
+electricity,USA|vermont,xLSTM,48.69046851113216
+electricity,USA|virginia,Nexus,540.6873908225705
+electricity,USA|virginia,SARIMA,565.6126378299386
+electricity,USA|virginia,TimesFM,623.1564255576474
+electricity,USA|virginia,xLSTM,714.296026616587
+electricity,USA|washington,Nexus,604.3153363130857
+electricity,USA|washington,SARIMA,863.8452658483058
+electricity,USA|washington,TimesFM,657.0161947441084
+electricity,USA|washington,xLSTM,758.1112466373324
+electricity,USA|washington dc,Nexus,5.423495231570449
+electricity,USA|washington dc,SARIMA,5.382546447499873
+electricity,USA|washington dc,TimesFM,6.694165202431161
+electricity,USA|washington dc,xLSTM,9.314329831489705
+electricity,USA|west virginia,Nexus,768.0088348892082
+electricity,USA|west virginia,SARIMA,1042.1536831636076
+electricity,USA|west virginia,TimesFM,729.8749465083102
+electricity,USA|west virginia,xLSTM,1103.648443095125
+electricity,USA|wisconsin,Nexus,300.5341408719234
+electricity,USA|wisconsin,SARIMA,247.6823682563062
+electricity,USA|wisconsin,TimesFM,341.38153935659096
+electricity,USA|wisconsin,xLSTM,947.4390008221958
+electricity,USA|wyoming,Nexus,293.4924185346281
+electricity,USA|wyoming,SARIMA,420.4408561460686
+electricity,USA|wyoming,TimesFM,319.1286108094153
+electricity,USA|wyoming,xLSTM,510.2374418704395
+carbon,AUT,Nexus,15.95575284264765
+carbon,AUT,SARIMA,25.40480481306591
+carbon,AUT,TimesFM,16.22712028476489
+carbon,AUT,xLSTM,19.814363090271552
+carbon,BEL,Nexus,28.9382298013439
+carbon,BEL,SARIMA,38.9976157960936
+carbon,BEL,TimesFM,30.785644095318585
+carbon,BEL,xLSTM,27.945534298746345
+carbon,BGR,Nexus,77.96791051973528
+carbon,BGR,SARIMA,59.433970807182334
+carbon,BGR,TimesFM,65.9588419386631
+carbon,BGR,xLSTM,97.93927231891908
+carbon,BIH,Nexus,60.50053472348068
+carbon,BIH,SARIMA,55.698842038733616
+carbon,BIH,TimesFM,40.46600475603388
+carbon,BIH,xLSTM,112.42383950812857
+carbon,CHE,Nexus,7.71930121510512
+carbon,CHE,SARIMA,10.144905263790594
+carbon,CHE,TimesFM,6.511622151995581
+carbon,CHE,xLSTM,4.8426689252676995
+carbon,CYP,Nexus,30.732802605351612
+carbon,CYP,SARIMA,22.338230656905402
+carbon,CYP,TimesFM,34.00743585587782
+carbon,CYP,xLSTM,31.893605983913233
+carbon,CZE,Nexus,57.511908383758815
+carbon,CZE,SARIMA,56.125597857200304
+carbon,CZE,TimesFM,66.60096692480263
+carbon,CZE,xLSTM,79.18244786782354
+carbon,DEU,Nexus,49.59932915700036
+carbon,DEU,SARIMA,45.52476936735581
+carbon,DEU,TimesFM,61.95808075148837
+carbon,DEU,xLSTM,71.2694870586159
+carbon,DNK,Nexus,27.654622699290496
+carbon,DNK,SARIMA,33.6715241966405
+carbon,DNK,TimesFM,37.27880069027251
+carbon,DNK,xLSTM,55.445942524138445
+carbon,ESP,Nexus,17.769392990564484
+carbon,ESP,SARIMA,15.841364996745094
+carbon,ESP,TimesFM,21.900519233571917
+carbon,ESP,xLSTM,21.03818275173223
+carbon,EST,Nexus,94.15689318217734
+carbon,EST,SARIMA,144.38299205232343
+carbon,EST,TimesFM,107.50312889477593
+carbon,EST,xLSTM,117.16589915540416
+carbon,FIN,Nexus,11.565710819327588
+carbon,FIN,SARIMA,22.19870432781928
+carbon,FIN,TimesFM,10.548375176354515
+carbon,FIN,xLSTM,15.15126448549372
+carbon,FRA,Nexus,5.264071392679832
+carbon,FRA,SARIMA,19.321269847007656
+carbon,FRA,TimesFM,4.627473216276822
+carbon,FRA,xLSTM,8.97809414521372
+carbon,GBR,Nexus,25.07162558388709
+carbon,GBR,SARIMA,35.01846315361183
+carbon,GBR,TimesFM,28.43462967667408
+carbon,GBR,xLSTM,28.783522881050345
+carbon,GRC,Nexus,51.40696710139501
+carbon,GRC,SARIMA,54.08366976578893
+carbon,GRC,TimesFM,59.506087601823964
+carbon,GRC,xLSTM,64.92319814859519
+carbon,HRV,Nexus,66.41850604484208
+carbon,HRV,SARIMA,52.397379936622535
+carbon,HRV,TimesFM,62.72359083395895
+carbon,HRV,xLSTM,87.55249913343253
+carbon,HUN,Nexus,28.66221625502048
+carbon,HUN,SARIMA,24.66842025556
+carbon,HUN,TimesFM,31.990544348267598
+carbon,HUN,xLSTM,35.154115533492494
+carbon,IND|delhi,Nexus,70.97205969890355
+carbon,IND|delhi,SARIMA,73.0515294063746
+carbon,IND|delhi,TimesFM,91.47780147361172
+carbon,IND|delhi,xLSTM,86.23272929094391
+carbon,IND|gujarat,Nexus,105.95549331251883
+carbon,IND|gujarat,SARIMA,110.0669539592094
+carbon,IND|gujarat,TimesFM,114.89574468565948
+carbon,IND|gujarat,xLSTM,106.34803609974877
+carbon,IND|karnataka,Nexus,64.59808896505942
+carbon,IND|karnataka,SARIMA,100.44456904726009
+carbon,IND|karnataka,TimesFM,50.32661941443367
+carbon,IND|karnataka,xLSTM,72.4613261996103
+carbon,IND|kerala,Nexus,1.4014165493893889
+carbon,IND|kerala,SARIMA,2.3974554406477053
+carbon,IND|kerala,TimesFM,1.6772422703392051
+carbon,IND|kerala,xLSTM,1.5901334140645464
+carbon,IND|maharashtra,Nexus,13.64380017231259
+carbon,IND|maharashtra,SARIMA,15.440158354108625
+carbon,IND|maharashtra,TimesFM,14.003190621696618
+carbon,IND|maharashtra,xLSTM,17.65331814989789
+carbon,IND|odisha,Nexus,17.01979555207078
+carbon,IND|odisha,SARIMA,13.32206112626997
+carbon,IND|odisha,TimesFM,18.15318704925818
+carbon,IND|odisha,xLSTM,37.28025581494554
+carbon,IND|rajasthan,Nexus,58.59676320620797
+carbon,IND|rajasthan,SARIMA,42.82750490771368
+carbon,IND|rajasthan,TimesFM,60.426680700807324
+carbon,IND|rajasthan,xLSTM,68.4178145665501
+carbon,IND|tamil nadu,Nexus,84.88227447368664
+carbon,IND|tamil nadu,SARIMA,83.02979454230709
+carbon,IND|tamil nadu,TimesFM,77.73426252905097
+carbon,IND|tamil nadu,xLSTM,87.14564423095203
+carbon,IND|telangana,Nexus,42.252920225167486
+carbon,IND|telangana,SARIMA,52.04637502831921
+carbon,IND|telangana,TimesFM,52.3749388417409
+carbon,IND|telangana,xLSTM,65.14433794745769
+carbon,IND|uttar pradesh,Nexus,4.90030373841956
+carbon,IND|uttar pradesh,SARIMA,15.838964087944628
+carbon,IND|uttar pradesh,TimesFM,5.825008834606455
+carbon,IND|uttar pradesh,xLSTM,10.946784306429727
+carbon,IND|west bengal,Nexus,6.112617464548488
+carbon,IND|west bengal,SARIMA,8.115831730735312
+carbon,IND|west bengal,TimesFM,5.905293388023044
+carbon,IND|west bengal,xLSTM,8.694294080343477
+carbon,IRL,Nexus,37.07360581032123
+carbon,IRL,SARIMA,38.546116801948564
+carbon,IRL,TimesFM,32.001645657630625
+carbon,IRL,xLSTM,51.52087358348204
+carbon,ITA,Nexus,30.986705781359614
+carbon,ITA,SARIMA,29.594618192714286
+carbon,ITA,TimesFM,37.78572921340001
+carbon,ITA,xLSTM,50.615405367392334
+carbon,LTU,Nexus,47.08108948703148
+carbon,LTU,SARIMA,65.0401419237622
+carbon,LTU,TimesFM,43.57390370101224
+carbon,LTU,xLSTM,45.285050918717715
+carbon,LUX,Nexus,64.4432306082981
+carbon,LUX,SARIMA,49.42495561529063
+carbon,LUX,TimesFM,56.03245254002614
+carbon,LUX,xLSTM,51.67071098089596
+carbon,LVA,Nexus,56.42193872044431
+carbon,LVA,SARIMA,52.96309096244856
+carbon,LVA,TimesFM,54.97204762312354
+carbon,LVA,xLSTM,48.76941232729491
+carbon,MDA,Nexus,9.910407715305569
+carbon,MDA,SARIMA,12.339853370793426
+carbon,MDA,TimesFM,9.291536149532257
+carbon,MDA,xLSTM,8.289675015383375
+carbon,MKD,Nexus,81.04048106806057
+carbon,MKD,SARIMA,72.39568676600982
+carbon,MKD,TimesFM,70.16790558580254
+carbon,MKD,xLSTM,96.78648667910953
+carbon,MLT,Nexus,21.931227949562302
+carbon,MLT,SARIMA,34.93451032938675
+carbon,MLT,TimesFM,35.230588070487094
+carbon,MLT,xLSTM,24.336957178982445
+carbon,NLD,Nexus,49.18404471551331
+carbon,NLD,SARIMA,53.889128240267006
+carbon,NLD,TimesFM,50.390411366463674
+carbon,NLD,xLSTM,63.3673094805535
+carbon,NOR,Nexus,1.2745200642951073
+carbon,NOR,SARIMA,1.4863876196349428
+carbon,NOR,TimesFM,1.314197438721869
+carbon,NOR,xLSTM,1.0299242558995025
+carbon,POL,Nexus,56.44569236283294
+carbon,POL,SARIMA,57.63826549329677
+carbon,POL,TimesFM,72.85523760329838
+carbon,POL,xLSTM,59.854449446943924
+carbon,PRT,Nexus,25.73762953186031
+carbon,PRT,SARIMA,52.8358921023309
+carbon,PRT,TimesFM,21.232087852150375
+carbon,PRT,xLSTM,36.80353285487825
+carbon,ROU,Nexus,27.0108374161284
+carbon,ROU,SARIMA,39.46344427462174
+carbon,ROU,TimesFM,31.80850128732431
+carbon,ROU,xLSTM,43.19349501315419
+carbon,SRB,Nexus,77.0401583980059
+carbon,SRB,SARIMA,86.65012954177833
+carbon,SRB,TimesFM,54.25167589103457
+carbon,SRB,xLSTM,67.94316648747386
+carbon,SVK,Nexus,7.531913242953861
+carbon,SVK,SARIMA,16.654531604777002
+carbon,SVK,TimesFM,8.029980382717612
+carbon,SVK,xLSTM,15.493793704054855
+carbon,SVN,Nexus,118.69703211678556
+carbon,SVN,SARIMA,103.58254627206331
+carbon,SVN,TimesFM,128.6624129740376
+carbon,SVN,xLSTM,163.53308719164767
+carbon,SWE,Nexus,1.4474917666002622
+carbon,SWE,SARIMA,2.8994389648006247
+carbon,SWE,TimesFM,1.5511248643988789
+carbon,SWE,xLSTM,3.00438880240179
+carbon,TUR,Nexus,8.527681630186542
+carbon,TUR,SARIMA,21.073461062421906
+carbon,TUR,TimesFM,14.72623153749716
+carbon,TUR,xLSTM,18.415469569786453
+carbon,USA|alabama,Nexus,29.77173068941546
+carbon,USA|alabama,SARIMA,30.709038167180385
+carbon,USA|alabama,TimesFM,12.73725195968745
+carbon,USA|alabama,xLSTM,10.632901726933081
+carbon,USA|arizona,Nexus,15.665040436702897
+carbon,USA|arizona,SARIMA,16.22645542394989
+carbon,USA|arizona,TimesFM,21.069113107863707
+carbon,USA|arizona,xLSTM,31.845686205641655
+carbon,USA|arkansas,Nexus,36.94094595056347
+carbon,USA|arkansas,SARIMA,43.15757234292474
+carbon,USA|arkansas,TimesFM,48.73450566025416
+carbon,USA|arkansas,xLSTM,51.43742309828346
+carbon,USA|california,Nexus,17.659377809339787
+carbon,USA|california,SARIMA,22.19722896368411
+carbon,USA|california,TimesFM,32.29292815036252
+carbon,USA|california,xLSTM,15.547572333794584
+carbon,USA|colorado,Nexus,33.57342561203831
+carbon,USA|colorado,SARIMA,38.23138886830429
+carbon,USA|colorado,TimesFM,35.69533594331524
+carbon,USA|colorado,xLSTM,34.8752447333209
+carbon,USA|connecticut,Nexus,17.265664203460044
+carbon,USA|connecticut,SARIMA,38.15195630252389
+carbon,USA|connecticut,TimesFM,13.369755638746485
+carbon,USA|connecticut,xLSTM,11.721494544222049
+carbon,USA|delaware,Nexus,39.75147017284469
+carbon,USA|delaware,SARIMA,36.98518194242193
+carbon,USA|delaware,TimesFM,41.590672886018815
+carbon,USA|delaware,xLSTM,49.3044780137633
+carbon,USA|florida,Nexus,9.977709105060354
+carbon,USA|florida,SARIMA,8.733974504446074
+carbon,USA|florida,TimesFM,10.843494656899866
+carbon,USA|florida,xLSTM,20.108941487844852
+carbon,USA|georgia,Nexus,23.99174779890746
+carbon,USA|georgia,SARIMA,17.40675038018259
+carbon,USA|georgia,TimesFM,18.27463467882288
+carbon,USA|georgia,xLSTM,19.527124211113602
+carbon,USA|idaho,Nexus,28.451019366966623
+carbon,USA|idaho,SARIMA,35.17109852431557
+carbon,USA|idaho,TimesFM,26.848248384228167
+carbon,USA|idaho,xLSTM,21.832107441113138
+carbon,USA|illinois,Nexus,24.013969762734988
+carbon,USA|illinois,SARIMA,33.743190411196785
+carbon,USA|illinois,TimesFM,16.073320807885725
+carbon,USA|illinois,xLSTM,30.761793360939606
+carbon,USA|indiana,Nexus,26.881115266577222
+carbon,USA|indiana,SARIMA,27.20990334255637
+carbon,USA|indiana,TimesFM,21.320742978684642
+carbon,USA|indiana,xLSTM,28.367843439924005
+carbon,USA|iowa,Nexus,48.194148485984066
+carbon,USA|iowa,SARIMA,46.454954640108596
+carbon,USA|iowa,TimesFM,46.926844102694346
+carbon,USA|iowa,xLSTM,72.31291855027962
+carbon,USA|kansas,Nexus,51.743460656548855
+carbon,USA|kansas,SARIMA,72.20179428566519
+carbon,USA|kansas,TimesFM,48.69953374129178
+carbon,USA|kansas,xLSTM,68.13058313994382
+carbon,USA|kentucky,Nexus,18.41310316624968
+carbon,USA|kentucky,SARIMA,11.445693852854466
+carbon,USA|kentucky,TimesFM,16.60782500191624
+carbon,USA|kentucky,xLSTM,16.77461772915434
+carbon,USA|louisiana,Nexus,19.14680316680758
+carbon,USA|louisiana,SARIMA,19.02940086046279
+carbon,USA|louisiana,TimesFM,22.678540027070014
+carbon,USA|louisiana,xLSTM,16.84693970217413
+carbon,USA|maine,Nexus,42.261072212965765
+carbon,USA|maine,SARIMA,38.46510938645196
+carbon,USA|maine,TimesFM,30.022803698333124
+carbon,USA|maine,xLSTM,38.43521394903061
+carbon,USA|maryland,Nexus,26.636429452800257
+carbon,USA|maryland,SARIMA,40.79027098566133
+carbon,USA|maryland,TimesFM,33.131291852790966
+carbon,USA|maryland,xLSTM,35.25839682808763
+carbon,USA|massachusetts,Nexus,27.432927731197772
+carbon,USA|massachusetts,SARIMA,22.50027482667996
+carbon,USA|massachusetts,TimesFM,24.66394236315339
+carbon,USA|massachusetts,xLSTM,31.29345860025198
+carbon,USA|michigan,Nexus,21.762596639632932
+carbon,USA|michigan,SARIMA,22.575814197081318
+carbon,USA|michigan,TimesFM,24.208851333979496
+carbon,USA|michigan,xLSTM,24.058126718122583
+carbon,USA|minnesota,Nexus,19.108814802937296
+carbon,USA|minnesota,SARIMA,36.04994000324607
+carbon,USA|minnesota,TimesFM,23.286306399379875
+carbon,USA|minnesota,xLSTM,43.89225663689725
+carbon,USA|mississippi,Nexus,9.801733926898322
+carbon,USA|mississippi,SARIMA,18.454668710930527
+carbon,USA|mississippi,TimesFM,20.526697249632385
+carbon,USA|mississippi,xLSTM,30.857175208994395
+carbon,USA|missouri,Nexus,40.570824209989176
+carbon,USA|missouri,SARIMA,82.06862059898737
+carbon,USA|missouri,TimesFM,35.47506114545465
+carbon,USA|missouri,xLSTM,61.55017121256883
+carbon,USA|montana,Nexus,56.579811478908034
+carbon,USA|montana,SARIMA,58.187121692309425
+carbon,USA|montana,TimesFM,61.72713995675167
+carbon,USA|montana,xLSTM,80.07164132598022
+carbon,USA|nebraska,Nexus,30.39639728483543
+carbon,USA|nebraska,SARIMA,38.64182395251962
+carbon,USA|nebraska,TimesFM,46.74134238234558
+carbon,USA|nebraska,xLSTM,50.68852259864968
+carbon,USA|nevada,Nexus,13.887054401336801
+carbon,USA|nevada,SARIMA,19.701078618729806
+carbon,USA|nevada,TimesFM,14.062101768359124
+carbon,USA|nevada,xLSTM,24.353822335813273
+carbon,USA|new hampshire,Nexus,22.513127498817312
+carbon,USA|new hampshire,SARIMA,51.780774517524975
+carbon,USA|new hampshire,TimesFM,28.537866874861635
+carbon,USA|new hampshire,xLSTM,34.63120961254861
+carbon,USA|new jersey,Nexus,19.809821016898493
+carbon,USA|new jersey,SARIMA,15.147698845542086
+carbon,USA|new jersey,TimesFM,21.39688075507565
+carbon,USA|new jersey,xLSTM,27.59125439015639
+carbon,USA|new mexico,Nexus,67.11385044401285
+carbon,USA|new mexico,SARIMA,85.07175246416087
+carbon,USA|new mexico,TimesFM,53.51156263398416
+carbon,USA|new mexico,xLSTM,48.390718290445754
+carbon,USA|new york,Nexus,16.079267255665126
+carbon,USA|new york,SARIMA,16.01315997045753
+carbon,USA|new york,TimesFM,19.285940172400554
+carbon,USA|new york,xLSTM,24.126731361295505
+carbon,USA|north carolina,Nexus,35.463074693483804
+carbon,USA|north carolina,SARIMA,30.303284377841255
+carbon,USA|north carolina,TimesFM,30.60662585604335
+carbon,USA|north carolina,xLSTM,40.093404237776504
+carbon,USA|north dakota,Nexus,27.536049434261024
+carbon,USA|north dakota,SARIMA,28.95916722255281
+carbon,USA|north dakota,TimesFM,33.46663735866734
+carbon,USA|north dakota,xLSTM,53.517467152845256
+carbon,USA|ohio,Nexus,16.21304911446911
+carbon,USA|ohio,SARIMA,23.058311633423546
+carbon,USA|ohio,TimesFM,17.189043607964496
+carbon,USA|ohio,xLSTM,21.047814320608364
+carbon,USA|oklahoma,Nexus,28.11885884040595
+carbon,USA|oklahoma,SARIMA,25.361159589643368
+carbon,USA|oklahoma,TimesFM,26.3300264159597
+carbon,USA|oklahoma,xLSTM,42.410918953566764
+carbon,USA|oregon,Nexus,29.983732757614888
+carbon,USA|oregon,SARIMA,34.83447530828002
+carbon,USA|oregon,TimesFM,30.141289977405467
+carbon,USA|oregon,xLSTM,19.05332963361707
+carbon,USA|pennsylvania,Nexus,12.78682419673502
+carbon,USA|pennsylvania,SARIMA,17.76811371953757
+carbon,USA|pennsylvania,TimesFM,13.418188358355309
+carbon,USA|pennsylvania,xLSTM,21.40425993443598
+carbon,USA|rhode island,Nexus,9.456691789118018
+carbon,USA|rhode island,SARIMA,23.076025497830607
+carbon,USA|rhode island,TimesFM,6.5837250167851575
+carbon,USA|rhode island,xLSTM,16.72697826879687
+carbon,USA|south carolina,Nexus,22.63839130115668
+carbon,USA|south carolina,SARIMA,23.647693568843266
+carbon,USA|south carolina,TimesFM,24.572439734895816
+carbon,USA|south carolina,xLSTM,25.819032677804426
+carbon,USA|south dakota,Nexus,32.09699133140497
+carbon,USA|south dakota,SARIMA,23.894268794060874
+carbon,USA|south dakota,TimesFM,48.84368351316037
+carbon,USA|south dakota,xLSTM,49.31346262848961
+carbon,USA|tennessee,Nexus,43.54910944271035
+carbon,USA|tennessee,SARIMA,66.08977042831275
+carbon,USA|tennessee,TimesFM,51.95852516569668
+carbon,USA|tennessee,xLSTM,59.08196379118636
+carbon,USA|texas,Nexus,16.657049689768343
+carbon,USA|texas,SARIMA,17.960007771326694
+carbon,USA|texas,TimesFM,16.423737547445963
+carbon,USA|texas,xLSTM,27.014293674717102
+carbon,USA|utah,Nexus,37.152987013145975
+carbon,USA|utah,SARIMA,39.80031662612519
+carbon,USA|utah,TimesFM,41.54477951476178
+carbon,USA|utah,xLSTM,47.19112012333579
+carbon,USA|vermont,Nexus,8.247540389285339
+carbon,USA|vermont,SARIMA,11.909346516736182
+carbon,USA|vermont,TimesFM,11.215970333931526
+carbon,USA|vermont,xLSTM,13.651596756269992
+carbon,USA|virginia,Nexus,32.34868309767683
+carbon,USA|virginia,SARIMA,33.4573604782327
+carbon,USA|virginia,TimesFM,31.169625345906596
+carbon,USA|virginia,xLSTM,33.552958970741706
+carbon,USA|washington,Nexus,27.066495333673274
+carbon,USA|washington,SARIMA,27.994670765939887
+carbon,USA|washington,TimesFM,28.510292430736456
+carbon,USA|washington,xLSTM,26.626371202053704
+carbon,USA|washington dc,Nexus,64.45692914125738
+carbon,USA|washington dc,SARIMA,45.2320960009473
+carbon,USA|washington dc,TimesFM,88.22236000201876
+carbon,USA|washington dc,xLSTM,60.88730794941572
+carbon,USA|west virginia,Nexus,17.380936616332463
+carbon,USA|west virginia,SARIMA,23.29070161790263
+carbon,USA|west virginia,TimesFM,13.570119637265242
+carbon,USA|west virginia,xLSTM,25.65275401250291
+carbon,USA|wisconsin,Nexus,27.73776795469446
+carbon,USA|wisconsin,SARIMA,23.64666258281573
+carbon,USA|wisconsin,TimesFM,28.680175257343983
+carbon,USA|wisconsin,xLSTM,33.23306494170794
+carbon,USA|wyoming,Nexus,22.888838347679616
+carbon,USA|wyoming,SARIMA,24.541685451125836
+carbon,USA|wyoming,TimesFM,55.9779065656194
+carbon,USA|wyoming,xLSTM,57.9747986145392
+water,Albany River,Nexus,54.15347797810955
+water,Albany River,SARIMA,60.984895459653806
+water,Albany River,TimesFM,59.99299493064003
+water,Albany River,xLSTM,50.32114286516494
+water,Bravo,Nexus,28.088445445739932
+water,Bravo,SARIMA,34.100957349649
+water,Bravo,TimesFM,32.86416726015048
+water,Bravo,xLSTM,29.40418478366426
+water,Brazos River,Nexus,51.233906415611095
+water,Brazos River,SARIMA,46.391777325513345
+water,Brazos River,TimesFM,60.325234214463094
+water,Brazos River,xLSTM,49.26410168126457
+water,Colorado River (Pacific Ocean),Nexus,58.99414395313075
+water,Colorado River (Pacific Ocean),SARIMA,69.04030865718099
+water,Colorado River (Pacific Ocean),TimesFM,51.2000463690852
+water,Colorado River (Pacific Ocean),xLSTM,67.84889351935337
+water,Columbia River,Nexus,50.69430366557713
+water,Columbia River,SARIMA,22.120231807187803
+water,Columbia River,TimesFM,48.46609200196432
+water,Columbia River,xLSTM,62.01509274992375
+water,Danube,Nexus,51.294956259806106
+water,Danube,SARIMA,20.14619178060456
+water,Danube,TimesFM,36.649802650658884
+water,Danube,xLSTM,73.98321239558669
+water,Dniepr,Nexus,78.6560138196798
+water,Dniepr,SARIMA,51.07290282747029
+water,Dniepr,TimesFM,67.9742676000576
+water,Dniepr,xLSTM,69.26743970951296
+water,Elbe River,Nexus,31.648730528402098
+water,Elbe River,SARIMA,23.574624070164344
+water,Elbe River,TimesFM,35.806316112795606
+water,Elbe River,xLSTM,45.2567571215905
+water,Ganges,Nexus,26.238840347433054
+water,Ganges,SARIMA,58.26161425621159
+water,Ganges,TimesFM,70.52006639662329
+water,Ganges,xLSTM,64.67881120552389
+water,Godavari,Nexus,44.95871223418521
+water,Godavari,SARIMA,24.16185694347697
+water,Godavari,TimesFM,66.36968830982514
+water,Godavari,xLSTM,63.76794009119986
+water,Grisalva,Nexus,105.12962188580815
+water,Grisalva,SARIMA,66.93414573818774
+water,Grisalva,TimesFM,88.57108046607188
+water,Grisalva,xLSTM,83.6030457873242
+water,Indus,Nexus,25.483127454564308
+water,Indus,SARIMA,38.40948285594713
+water,Indus,TimesFM,28.388031589563127
+water,Indus,xLSTM,21.147944636420032
+water,Krishna,Nexus,59.2882768381089
+water,Krishna,SARIMA,57.18536537221344
+water,Krishna,TimesFM,68.05611400665562
+water,Krishna,xLSTM,63.43765404475745
+water,Loire,Nexus,20.19994992359888
+water,Loire,SARIMA,32.83307216582999
+water,Loire,TimesFM,28.335654406679556
+water,Loire,xLSTM,48.93161046903591
+water,Mahanadi River (Mahahadi),Nexus,38.437548739158885
+water,Mahanadi River (Mahahadi),SARIMA,27.45688862551473
+water,Mahanadi River (Mahahadi),TimesFM,75.96384915643084
+water,Mahanadi River (Mahahadi),xLSTM,70.93952085075084
+water,Mississippi River,Nexus,12.875174234529931
+water,Mississippi River,SARIMA,30.568554132759186
+water,Mississippi River,TimesFM,23.71168971730994
+water,Mississippi River,xLSTM,33.55145274461155
+water,Nelson River,Nexus,29.186836264124782
+water,Nelson River,SARIMA,36.00796227836553
+water,Nelson River,TimesFM,45.62034131168899
+water,Nelson River,xLSTM,54.86845613904363
+water,Neva,Nexus,21.26598783040017
+water,Neva,SARIMA,23.566412400747648
+water,Neva,TimesFM,26.579236149331127
+water,Neva,xLSTM,26.694174414858946
+water,Oder River,Nexus,41.455323363706896
+water,Oder River,SARIMA,21.112051477355873
+water,Oder River,TimesFM,39.55095382945066
+water,Oder River,xLSTM,49.8836012578925
+water,Rhine,Nexus,24.814712504681232
+water,Rhine,SARIMA,26.043519049527323
+water,Rhine,TimesFM,33.78812343390392
+water,Rhine,xLSTM,35.205189905513876
+water,Senegal,Nexus,28.407659726125125
+water,Senegal,SARIMA,17.733441715844794
+water,Senegal,TimesFM,41.34897095014168
+water,Senegal,xLSTM,67.51593349621129
+water,St.Lawrence,Nexus,24.868581433521452
+water,St.Lawrence,SARIMA,44.843980418742575
+water,St.Lawrence,TimesFM,29.468790538083155
+water,St.Lawrence,xLSTM,66.93989291277512
+water,Tigris & Euphrates,Nexus,34.84976335638135
+water,Tigris & Euphrates,SARIMA,48.825878308916536
+water,Tigris & Euphrates,TimesFM,37.078267174621956
+water,Tigris & Euphrates,xLSTM,84.61638876249974
+water,Wisla,Nexus,27.85454334775771
+water,Wisla,SARIMA,18.358352518359666
+water,Wisla,TimesFM,31.47665445665877
+water,Wisla,xLSTM,40.87259287849797

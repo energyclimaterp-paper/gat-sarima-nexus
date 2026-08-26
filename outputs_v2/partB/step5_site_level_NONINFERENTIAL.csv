@@ -1,0 +1,7 @@
+resource,comparison,N_sites_(pseudo-replicated),mean_diff,raw_p_INVALID,label
+carbon,real-GAT vs unweighted-ensemble,4889,-0.01668,0.0,"SITE-LEVEL (pseudo-replicated, not inferential)"
+carbon,real-GAT vs random-graph-GAT,4889,-1.93879,0.0,"SITE-LEVEL (pseudo-replicated, not inferential)"
+electricity,real-GAT vs unweighted-ensemble,4889,2.70355,0.17402,"SITE-LEVEL (pseudo-replicated, not inferential)"
+electricity,real-GAT vs random-graph-GAT,4889,-460.65854,0.0,"SITE-LEVEL (pseudo-replicated, not inferential)"
+water,real-GAT vs unweighted-ensemble,4889,-0.00285,0.0,"SITE-LEVEL (pseudo-replicated, not inferential)"
+water,real-GAT vs random-graph-GAT,4889,0.03237,0.0,"SITE-LEVEL (pseudo-replicated, not inferential)"

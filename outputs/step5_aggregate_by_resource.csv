@@ -1,0 +1,10 @@
+resource,condition,MAPE,RMSE,MAE
+carbon,gat_weighted,10.5615,26.6704,22.5317
+carbon,random_control,13.8173,29.5712,25.2698
+carbon,unweighted,10.5755,26.6764,22.5359
+electricity,gat_weighted,6.382,1011.1664,857.616
+electricity,random_control,39.9222,1728.5237,1589.7056
+electricity,unweighted,6.0417,1008.7838,855.2728
+water,gat_weighted,166.0429,35.0868,28.583
+water,random_control,168.1847,34.8504,28.4505
+water,unweighted,166.0698,35.1006,28.5971

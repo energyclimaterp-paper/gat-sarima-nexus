@@ -1,0 +1,8 @@
+stage,name,kind,path,bytes,rows_or_shape,hit_or_miss
+A.1 temperature,temperature_snapshot,csv,C:\Users\gauri\Projects\nexus\outputs_v2\partA\checkpoints\temperature_snapshot__v1.csv,214272,4889 rows,MISS (just saved)
+A.1 alignment,aligned_dataset,parquet,C:\Users\gauri\Projects\nexus\outputs_v2\partA\checkpoints\aligned_dataset__v1.parquet,314481,6131 rows,MISS (just saved)
+A.1 graph,graph_colocation,torch,C:\Users\gauri\Projects\nexus\outputs_v2\partA\checkpoints\graph_colocation__v1.pt,1450792,torch object,MISS (just saved)
+A.1 graph,graph_random_control,torch,C:\Users\gauri\Projects\nexus\outputs_v2\partA\checkpoints\graph_random_control__v1.pt,1450900,torch object,MISS (just saved)
+A.1 graph,graph_nodes,parquet,C:\Users\gauri\Projects\nexus\outputs_v2\partA\checkpoints\graph_nodes__v1.parquet,277615,4889 rows,MISS (just saved)
+A.1 GAT,gat_weights_colocation,torch,C:\Users\gauri\Projects\nexus\outputs_v2\partA\checkpoints\gat_weights_colocation__v1.pt,1641642,torch object,MISS (just saved)
+A.1 GAT,gat_weights_random,torch,C:\Users\gauri\Projects\nexus\outputs_v2\partA\checkpoints\gat_weights_random__v1.pt,1641598,torch object,MISS (just saved)

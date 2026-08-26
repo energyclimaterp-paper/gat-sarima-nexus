@@ -1,0 +1,4 @@
+condition,mean_effective_alpha,median_effective_alpha,frac_siteseries_with_neighbour_STRUCTURAL
+colocation,0.036672680258068344,0.03708332408766722,0.999
+random_control_raw,0.06882010072827402,0.06505100020688133,1.0
+random_control_calibrated,0.03667268025806834,0.03466421155751665,1.0

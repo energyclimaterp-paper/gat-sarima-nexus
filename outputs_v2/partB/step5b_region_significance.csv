@@ -1,0 +1,10 @@
+resource,comparison,N_regions,mean_diff,95%_CI,test_used,raw_p,paired_t_p,normality_p,fdr_corrected_p
+carbon,real-GAT vs unweighted-ensemble,95,0.03414,"(-0.04124, 0.13154)",Wilcoxon signed-rank,0.23292,,0.0,0.34938
+electricity,real-GAT vs unweighted-ensemble,95,17.96906,"(-0.55453, 50.50629)",Wilcoxon signed-rank,0.27782,,0.0,0.3572
+water,real-GAT vs unweighted-ensemble,24,0.0318,"(-0.14586, 0.27627)",Wilcoxon signed-rank,0.07314,,0.0,0.16456
+carbon,"real-GAT vs random-graph-GAT (raw, alpha confound present)",95,-2.65628,"(-4.15129, -1.19907)",Wilcoxon signed-rank,0.0003,,0.0,0.0009
+electricity,"real-GAT vs random-graph-GAT (raw, alpha confound present)",95,-496.03648,"(-597.80675, -397.98908)",Wilcoxon signed-rank,0.0,,0.00273,0.0
+water,"real-GAT vs random-graph-GAT (raw, alpha confound present)",24,0.01144,"(-0.92827, 0.97124)",Wilcoxon signed-rank + paired t-test (normal diffs),0.92181,0.98176,0.6607,0.92181
+carbon,real-GAT vs random-graph-GAT (alpha-calibrated),95,-0.54739,"(-1.28766, 0.18014)",Wilcoxon signed-rank,0.18513,,0.0,0.33323
+electricity,real-GAT vs random-graph-GAT (alpha-calibrated),95,-194.02039,"(-251.22553, -136.89839)",Wilcoxon signed-rank,0.0,,0.00024,0.0
+water,real-GAT vs random-graph-GAT (alpha-calibrated),24,0.17952,"(-0.31655, 0.67823)",Wilcoxon signed-rank + paired t-test (normal diffs),0.54567,0.49872,0.16389,0.61388

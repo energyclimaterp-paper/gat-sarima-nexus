@@ -1,0 +1,10 @@
+condition,resource,frac_siteseries_changed,mean_abs_delta,N_siteseries
+colocation,electricity,0.0861,69.741786,19556
+colocation,carbon,0.0861,1.060066,19556
+colocation,water,0.0986,0.533731,19556
+random_control_raw,electricity,0.9998,786.052659,19556
+random_control_raw,carbon,0.9998,7.584754,19556
+random_control_raw,water,0.9998,3.566077,19556
+random_control_calibrated,electricity,0.9998,418.869742,19556
+random_control_calibrated,carbon,0.9998,4.041744,19556
+random_control_calibrated,water,0.9998,1.900282,19556

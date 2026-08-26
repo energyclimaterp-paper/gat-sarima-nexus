@@ -1,0 +1,13 @@
+version,resource,RMSE,MAE
+best_single_model(ORACLE),carbon,26.0176,21.4449
+best_single_model(ORACLE),electricity,892.2789,751.361
+best_single_model(ORACLE),water,29.2456,23.0302
+simple_average,carbon,26.6764,22.5359
+simple_average,electricity,1008.7838,855.2728
+simple_average,water,35.1006,28.5971
+graph_weighted,carbon,26.6704,22.5317
+graph_weighted,electricity,1011.1664,857.616
+graph_weighted,water,35.0868,28.583
+random_edge_check,carbon,29.5712,25.2698
+random_edge_check,electricity,1728.5237,1589.7056
+random_edge_check,water,34.8504,28.4505

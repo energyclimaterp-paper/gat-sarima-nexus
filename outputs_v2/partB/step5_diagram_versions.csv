@@ -1,0 +1,13 @@
+version,resource,RMSE,MAE
+best_single_ORACLE_upper_bound,carbon,24.8591,20.5729
+best_single_ORACLE_upper_bound,electricity,866.5623,709.2204
+best_single_ORACLE_upper_bound,water,26.9657,21.5401
+simple_average,carbon,26.4834,22.0697
+simple_average,electricity,999.8015,823.9502
+simple_average,water,32.2509,26.0796
+graph_weighted,carbon,26.4667,22.0541
+graph_weighted,electricity,1002.505,826.4866
+graph_weighted,water,32.248,26.0773
+random_edge_check,carbon,28.4055,23.8049
+random_edge_check,electricity,1463.1635,1312.0681
+random_edge_check,water,32.2157,26.1944

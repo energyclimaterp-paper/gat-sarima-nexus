@@ -1,0 +1,7 @@
+resource,comparison,n,mean_diff_rmse,t_stat,t_p,wilcoxon_stat,wilcoxon_p,note
+carbon,gat_vs_unweighted,4887,-0.006006103695489293,-1.4468968621685991,0.1479899619900512,1574257.5,1.7542107435387946e-07,mean_diff<0 => GAT lower RMSE (better)
+carbon,gat_vs_random_control,4887,-2.900784904679301,-23.200244150724597,4.7806130540014954e-113,3705491.0,7.839211753635347e-117,mean_diff<0 => GAT lower RMSE (better)
+electricity,gat_vs_unweighted,4887,2.3825371153444768,4.4094196739337645,1.0587313528463922e-05,2430517.5,7.157830404364802e-06,mean_diff<0 => GAT lower RMSE (better)
+electricity,gat_vs_random_control,4887,-717.357331045941,-44.26693741746878,0.0,1460649.0,0.0,mean_diff<0 => GAT lower RMSE (better)
+water,gat_vs_unweighted,4887,-0.01380912202793777,-4.747784705614787,2.1153521382668445e-06,354065.5,7.464663161120477e-57,mean_diff<0 => GAT lower RMSE (better)
+water,gat_vs_random_control,4887,0.23636168525987275,3.8536565125979165,0.00011785954729241322,4910471.0,6.630593344899387e-27,mean_diff<0 => GAT lower RMSE (better)

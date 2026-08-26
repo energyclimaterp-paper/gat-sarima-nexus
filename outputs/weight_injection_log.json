@@ -1,0 +1,39 @@
+{
+  "forecast_unit": {
+    "electricity": "grid_zone",
+    "carbon": "grid_zone",
+    "water": "basin (nearest G3P river-basin centroid, cutoff 2500 km)"
+  },
+  "resources_forecast": [
+    "electricity",
+    "carbon",
+    "water"
+  ],
+  "resources_skipped": {
+    "water_stress": "static per basin (Aqueduct bws_score has no time axis)",
+    "temperature": "live Open-Meteo per-site SNAPSHOT (a 4th GAT node feature in Step 1-3), but a single current reading with NO monthly history => cannot be forecast as a series; it influences Step 4 INDIRECTLY through the GAT weights"
+  },
+  "models": [
+    "SARIMA",
+    "Nexus"
+  ],
+  "model_run_order_rationale": "SARIMA baseline, then Nexus (live LLM calls)",
+  "weight_field_used": "site_attention_received (min-max scaled, x ALPHA_MAX)",
+  "ALPHA_MAX": 0.5,
+  "native_injection_demo": [
+    {
+      "region": "BEL",
+      "resource": "electricity",
+      "model": "SARIMAX_exog",
+      "mean_abs_delta": 81.30672694915113
+    },
+    {
+      "region": "CHE",
+      "resource": "electricity",
+      "model": "SARIMAX_exog",
+      "mean_abs_delta": 186.90242969474775
+    }
+  ],
+  "changed_fraction_gat": 0.09030761885273855,
+  "changed_fraction_random": 0.9997953754859832
+}

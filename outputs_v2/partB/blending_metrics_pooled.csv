@@ -1,0 +1,10 @@
+resource,condition,N_regions,MAE,WMAPE_%,RMSE,Bias,Bias_%,MASE
+carbon,gat_weighted,95,27.2359,8.0946,40.5325,5.2771,1.5684,0.7816
+carbon,random_control,95,29.3721,8.7295,41.2657,1.0132,0.3011,1.1517
+carbon,unweighted,95,27.2311,8.0931,40.5247,5.497,1.6337,0.7782
+electricity,gat_weighted,95,476.5298,5.948,779.0887,-177.4041,-2.2143,1.4093
+electricity,random_control,95,946.3297,11.812,1231.0612,424.2558,5.2955,6.1777
+electricity,unweighted,95,460.0882,5.7428,764.2948,-200.1556,-2.4983,0.8377
+water,gat_weighted,24,31.367,35.3827,42.4932,3.9897,4.5005,0.6276
+water,random_control,24,31.7796,35.848,41.9994,4.6256,5.2178,0.6309
+water,unweighted,24,31.3108,35.3193,42.4937,4.1879,4.724,0.6257
