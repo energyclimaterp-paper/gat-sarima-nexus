@@ -1,0 +1,216 @@
+{
+  "5.1_edge_taxonomy": [
+    {
+      "resource": "electricity",
+      "edge_origin": "shared-zone",
+      "edges": 64988,
+      "LIVE": 0,
+      "INERT": 64988,
+      "live_%": 0.0
+    },
+    {
+      "resource": "electricity",
+      "edge_origin": "shared-basin(pfaf)",
+      "edges": 55252,
+      "LIVE": 1288,
+      "INERT": 53964,
+      "live_%": 2.331
+    },
+    {
+      "resource": "electricity",
+      "edge_origin": "ALL",
+      "edges": 66276,
+      "LIVE": 1288,
+      "INERT": 64988,
+      "live_%": 1.943
+    },
+    {
+      "resource": "carbon",
+      "edge_origin": "shared-zone",
+      "edges": 64988,
+      "LIVE": 0,
+      "INERT": 64988,
+      "live_%": 0.0
+    },
+    {
+      "resource": "carbon",
+      "edge_origin": "shared-basin(pfaf)",
+      "edges": 55252,
+      "LIVE": 1288,
+      "INERT": 53964,
+      "live_%": 2.331
+    },
+    {
+      "resource": "carbon",
+      "edge_origin": "ALL",
+      "edges": 66276,
+      "LIVE": 1288,
+      "INERT": 64988,
+      "live_%": 1.943
+    },
+    {
+      "resource": "water",
+      "edge_origin": "shared-zone",
+      "edges": 64988,
+      "LIVE": 1478,
+      "INERT": 63510,
+      "live_%": 2.274
+    },
+    {
+      "resource": "water",
+      "edge_origin": "shared-basin(pfaf)",
+      "edges": 55252,
+      "LIVE": 606,
+      "INERT": 54646,
+      "live_%": 1.097
+    },
+    {
+      "resource": "water",
+      "edge_origin": "ALL",
+      "edges": 66276,
+      "LIVE": 1554,
+      "INERT": 64722,
+      "live_%": 2.345
+    }
+  ],
+  "5.2_node_taxonomy": [
+    {
+      "resource": "electricity",
+      "nodes": 4889,
+      "boundary_nodes": 421,
+      "boundary_%": 8.61,
+      "n_countries_with_boundary": 17,
+      "n_regions_with_boundary": 51
+    },
+    {
+      "resource": "carbon",
+      "nodes": 4889,
+      "boundary_nodes": 421,
+      "boundary_%": 8.61,
+      "n_countries_with_boundary": 17,
+      "n_regions_with_boundary": 51
+    },
+    {
+      "resource": "water",
+      "nodes": 4889,
+      "boundary_nodes": 484,
+      "boundary_%": 9.9,
+      "n_countries_with_boundary": 16,
+      "n_regions_with_boundary": 20
+    }
+  ],
+  "5.3_region_pairs": [
+    {
+      "resource": "electricity",
+      "regions": 95,
+      "ordered_pairs": 106,
+      "unordered_pairs": 53,
+      "max_possible_unordered": 4465,
+      "pct_of_possible": 1.187
+    },
+    {
+      "resource": "carbon",
+      "regions": 95,
+      "ordered_pairs": 106,
+      "unordered_pairs": 53,
+      "max_possible_unordered": 4465,
+      "pct_of_possible": 1.187
+    },
+    {
+      "resource": "water",
+      "regions": 24,
+      "ordered_pairs": 44,
+      "unordered_pairs": 22,
+      "max_possible_unordered": 276,
+      "pct_of_possible": 7.971
+    }
+  ],
+  "5.5_5.6_viability": [
+    {
+      "resource": "electricity",
+      "n_connected": 53,
+      "n_unconnected": 4412,
+      "mean_rho_connected": 0.58553,
+      "mean_rho_unconnected": 0.15575,
+      "mannwhitney_p": 2.1536703954267848e-20,
+      "rank_biserial": 0.738406404488616,
+      "significant": true,
+      "direction": "connected pairs co-move MORE",
+      "dist_matched_p": 0.00042221357701336315,
+      "dist_matched_rho_connected": 0.58553,
+      "dist_matched_rho_unconnected": 0.41526,
+      "survives_distance_control": true
+    },
+    {
+      "resource": "carbon",
+      "n_connected": 53,
+      "n_unconnected": 4412,
+      "mean_rho_connected": 0.30109,
+      "mean_rho_unconnected": 0.08567,
+      "mannwhitney_p": 4.496465539777595e-16,
+      "rank_biserial": 0.6482406472912641,
+      "significant": true,
+      "direction": "connected pairs co-move MORE",
+      "dist_matched_p": 0.019723105304712836,
+      "dist_matched_rho_connected": 0.30109,
+      "dist_matched_rho_unconnected": 0.22321,
+      "survives_distance_control": true
+    },
+    {
+      "resource": "water",
+      "n_connected": 22,
+      "n_unconnected": 254,
+      "mean_rho_connected": 0.57477,
+      "mean_rho_unconnected": 0.09641,
+      "mannwhitney_p": 1.468177486601883e-06,
+      "rank_biserial": 0.6191839656406586,
+      "significant": true,
+      "direction": "connected pairs co-move MORE",
+      "dist_matched_p": 0.6303822918095695,
+      "dist_matched_rho_connected": 0.57477,
+      "dist_matched_rho_unconnected": 0.57234,
+      "survives_distance_control": false
+    }
+  ],
+  "5.7_boundary_geography": [
+    {
+      "resource": "electricity",
+      "live_edges": 1288,
+      "boundary_nodes": 421,
+      "median_km_to_nearest_cross_region": 43.0,
+      "p90_km": 138.5,
+      "max_km": 273.2,
+      "live_edges_over_500km": 0,
+      "pct_live_over_500km": 0.0
+    },
+    {
+      "resource": "carbon",
+      "live_edges": 1288,
+      "boundary_nodes": 421,
+      "median_km_to_nearest_cross_region": 43.0,
+      "p90_km": 138.5,
+      "max_km": 273.2,
+      "live_edges_over_500km": 0,
+      "pct_live_over_500km": 0.0
+    },
+    {
+      "resource": "water",
+      "live_edges": 1554,
+      "boundary_nodes": 484,
+      "median_km_to_nearest_cross_region": 88.1,
+      "p90_km": 267.3,
+      "max_km": 1802.8,
+      "live_edges_over_500km": 54,
+      "pct_live_over_500km": 3.47
+    }
+  ],
+  "5.8_basin_consistency": {
+    "median_assign_km": 554.4175275457455,
+    "p90_assign_km": 894.0896165075864,
+    "max_assign_km": 1655.246947765981,
+    "sites_over_500km": 2840,
+    "edge_partition_agreement_pct": 83.883,
+    "live_water_edges_g3p": 1554,
+    "live_and_cross_pfaf": 948
+  }
+}

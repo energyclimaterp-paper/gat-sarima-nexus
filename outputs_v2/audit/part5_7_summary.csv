@@ -1,0 +1,4 @@
+resource,live_edges,boundary_nodes,median_km_to_nearest_cross_region,p90_km,max_km,live_edges_over_500km,pct_live_over_500km
+electricity,1288,421,43.0,138.5,273.2,0,0.0
+carbon,1288,421,43.0,138.5,273.2,0,0.0
+water,1554,484,88.1,267.3,1802.8,54,3.47

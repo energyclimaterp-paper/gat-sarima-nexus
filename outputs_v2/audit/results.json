@@ -1,0 +1,1189 @@
+{
+  "1.2_region_provenance": {
+    "pre_is_node": 4887,
+    "post_is_node": 4889,
+    "zones_added": [
+      "MDA"
+    ],
+    "zones_removed": [],
+    "sites_added": [
+      413,
+      4741
+    ],
+    "pre_temp_nonnull": 4887,
+    "post_temp_nonnull": 4889,
+    "cause": "live Open-Meteo refetch changed temperature coverage, which changes is_node (is_node requires all 4 node features present)"
+  },
+  "1.3_leakage": [
+    {
+      "feature": "electricity_gwh",
+      "pre_mean": 17274.646838,
+      "post_mean": 16839.14456,
+      "differs": true
+    },
+    {
+      "feature": "co2_intensity",
+      "pre_mean": 281.279839,
+      "post_mean": 283.421439,
+      "differs": true
+    },
+    {
+      "feature": "water_stress_bws",
+      "pre_mean": 2.166176,
+      "post_mean": 2.165811,
+      "differs": true
+    },
+    {
+      "feature": "temperature_c",
+      "pre_mean": 27.170289,
+      "post_mean": 25.909573,
+      "differs": true
+    }
+  ],
+  "2_nexus_provenance": {
+    "GEMINI_CALLS": 214,
+    "via_LLM": 214,
+    "via_stat_fallback": 0,
+    "total": 214,
+    "backend": "chronos"
+  },
+  "2.3_nexus_statistical_only": [
+    {
+      "resource": "carbon",
+      "n": 95,
+      "Nexus_RMSE": 33.8546,
+      "Nexus_stat_only_RMSE": 35.9546,
+      "gap": -2.1,
+      "wilcoxon_p": 0.034365236490597924,
+      "verdict": "Nexus BETTER"
+    },
+    {
+      "resource": "electricity",
+      "n": 95,
+      "Nexus_RMSE": 558.883,
+      "Nexus_stat_only_RMSE": 575.5617,
+      "gap": -16.6787,
+      "wilcoxon_p": 0.28673854184851033,
+      "verdict": "Nexus BETTER"
+    },
+    {
+      "resource": "water",
+      "n": 24,
+      "Nexus_RMSE": 40.4199,
+      "Nexus_stat_only_RMSE": 36.5945,
+      "gap": 3.8255,
+      "wilcoxon_p": 0.40611207485198975,
+      "verdict": "Nexus WORSE"
+    }
+  ],
+  "3_skill_mase": [
+    {
+      "resource": "carbon",
+      "model": "SeasonalNaive",
+      "RMSE": 37.823,
+      "MASE": 0.8754,
+      "skill": 0.0,
+      "skill_ci_lo": 0.0,
+      "skill_ci_hi": 0.0,
+      "worse_than_seasonal_naive": false
+    },
+    {
+      "resource": "carbon",
+      "model": "SARIMA",
+      "RMSE": 38.006,
+      "MASE": 0.9117,
+      "skill": -0.09231,
+      "skill_ci_lo": -0.21147,
+      "skill_ci_hi": 0.00127,
+      "worse_than_seasonal_naive": true
+    },
+    {
+      "resource": "carbon",
+      "model": "xLSTM",
+      "RMSE": 42.3243,
+      "MASE": 0.999,
+      "skill": -0.17027,
+      "skill_ci_lo": -0.25486,
+      "skill_ci_hi": -0.08958,
+      "worse_than_seasonal_naive": true
+    },
+    {
+      "resource": "carbon",
+      "model": "TimesFM",
+      "RMSE": 35.4997,
+      "MASE": 0.8306,
+      "skill": 0.04004,
+      "skill_ci_lo": -0.02651,
+      "skill_ci_hi": 0.10151,
+      "worse_than_seasonal_naive": false
+    },
+    {
+      "resource": "carbon",
+      "model": "Nexus",
+      "RMSE": 33.8546,
+      "MASE": 0.7893,
+      "skill": 0.08375,
+      "skill_ci_lo": 0.0227,
+      "skill_ci_hi": 0.14395,
+      "worse_than_seasonal_naive": false
+    },
+    {
+      "resource": "electricity",
+      "model": "SeasonalNaive",
+      "RMSE": 593.6263,
+      "MASE": 0.9283,
+      "skill": 0.0,
+      "skill_ci_lo": 0.0,
+      "skill_ci_hi": 0.0,
+      "worse_than_seasonal_naive": false
+    },
+    {
+      "resource": "electricity",
+      "model": "SARIMA",
+      "RMSE": 606.0476,
+      "MASE": 0.9487,
+      "skill": -0.02595,
+      "skill_ci_lo": -0.09443,
+      "skill_ci_hi": 0.03559,
+      "worse_than_seasonal_naive": true
+    },
+    {
+      "resource": "electricity",
+      "model": "xLSTM",
+      "RMSE": 745.3084,
+      "MASE": 1.096,
+      "skill": -0.23621,
+      "skill_ci_lo": -0.32624,
+      "skill_ci_hi": -0.15728,
+      "worse_than_seasonal_naive": true
+    },
+    {
+      "resource": "electricity",
+      "model": "TimesFM",
+      "RMSE": 579.6404,
+      "MASE": 0.8585,
+      "skill": 0.04306,
+      "skill_ci_lo": -0.01028,
+      "skill_ci_hi": 0.09399,
+      "worse_than_seasonal_naive": false
+    },
+    {
+      "resource": "electricity",
+      "model": "Nexus",
+      "RMSE": 558.883,
+      "MASE": 0.8172,
+      "skill": 0.07383,
+      "skill_ci_lo": 0.01386,
+      "skill_ci_hi": 0.13033,
+      "worse_than_seasonal_naive": false
+    },
+    {
+      "resource": "water",
+      "model": "SeasonalNaive",
+      "RMSE": 42.4101,
+      "MASE": 0.7042,
+      "skill": 0.0,
+      "skill_ci_lo": 0.0,
+      "skill_ci_hi": 0.0,
+      "worse_than_seasonal_naive": false
+    },
+    {
+      "resource": "water",
+      "model": "SARIMA",
+      "RMSE": 37.4889,
+      "MASE": 0.6302,
+      "skill": 0.10734,
+      "skill_ci_lo": -0.03071,
+      "skill_ci_hi": 0.23171,
+      "worse_than_seasonal_naive": false
+    },
+    {
+      "resource": "water",
+      "model": "xLSTM",
+      "RMSE": 55.1673,
+      "MASE": 0.8964,
+      "skill": -0.3707,
+      "skill_ci_lo": -0.60036,
+      "skill_ci_hi": -0.15354,
+      "worse_than_seasonal_naive": true
+    },
+    {
+      "resource": "water",
+      "model": "TimesFM",
+      "RMSE": 47.0044,
+      "MASE": 0.7153,
+      "skill": -0.13051,
+      "skill_ci_lo": -0.30854,
+      "skill_ci_hi": 0.02524,
+      "worse_than_seasonal_naive": true
+    },
+    {
+      "resource": "water",
+      "model": "Nexus",
+      "RMSE": 40.4199,
+      "MASE": 0.6383,
+      "skill": 0.04794,
+      "skill_ci_lo": -0.08739,
+      "skill_ci_hi": 0.18456,
+      "worse_than_seasonal_naive": false
+    }
+  ],
+  "3.4_vs_seasonal_naive": [
+    {
+      "resource": "carbon",
+      "seasonal_naive_RMSE": 37.823,
+      "SARIMA_RMSE": 38.006,
+      "Nexus_RMSE": 33.8546,
+      "best_of_three": "Nexus",
+      "nexus_vs_snaive_p": 0.00034104648291547824
+    },
+    {
+      "resource": "electricity",
+      "seasonal_naive_RMSE": 593.6263,
+      "SARIMA_RMSE": 606.0476,
+      "Nexus_RMSE": 558.883,
+      "best_of_three": "Nexus",
+      "nexus_vs_snaive_p": 0.0004981966732267569
+    },
+    {
+      "resource": "water",
+      "seasonal_naive_RMSE": 42.4101,
+      "SARIMA_RMSE": 37.4889,
+      "Nexus_RMSE": 40.4199,
+      "best_of_three": "SARIMA",
+      "nexus_vs_snaive_p": 0.5456695556640625
+    }
+  ],
+  "5.4_nonboundary_identical": true,
+  "4_conditions": [
+    {
+      "resource": "electricity",
+      "model": "SARIMA",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1092.1425,
+      "MAE": 932.2384,
+      "MASE": 0.9901,
+      "skill_vs_snaive": -0.04548
+    },
+    {
+      "resource": "electricity",
+      "model": "SARIMA",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1094.5657,
+      "MAE": 934.5461,
+      "MASE": 1.0191,
+      "skill_vs_snaive": -0.0856
+    },
+    {
+      "resource": "electricity",
+      "model": "SARIMA",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1529.4573,
+      "MAE": 1373.1611,
+      "MASE": 2.7768,
+      "skill_vs_snaive": -1.87236
+    },
+    {
+      "resource": "electricity",
+      "model": "SARIMA",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1267.3847,
+      "MAE": 1109.9079,
+      "MASE": 1.8046,
+      "skill_vs_snaive": -0.89525
+    },
+    {
+      "resource": "electricity",
+      "model": "SARIMA",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1094.2519,
+      "MAE": 934.2337,
+      "MASE": 1.0258,
+      "skill_vs_snaive": -0.09091
+    },
+    {
+      "resource": "electricity",
+      "model": "xLSTM",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1263.3871,
+      "MAE": 1052.4616,
+      "MASE": 1.132,
+      "skill_vs_snaive": -0.22334
+    },
+    {
+      "resource": "electricity",
+      "model": "xLSTM",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1265.4394,
+      "MAE": 1054.4413,
+      "MASE": 1.1605,
+      "skill_vs_snaive": -0.26291
+    },
+    {
+      "resource": "electricity",
+      "model": "xLSTM",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1607.4848,
+      "MAE": 1368.6931,
+      "MASE": 2.8251,
+      "skill_vs_snaive": -1.98872
+    },
+    {
+      "resource": "electricity",
+      "model": "xLSTM",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1384.1605,
+      "MAE": 1152.6403,
+      "MASE": 1.9072,
+      "skill_vs_snaive": -1.05198
+    },
+    {
+      "resource": "electricity",
+      "model": "xLSTM",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1265.1508,
+      "MAE": 1054.1566,
+      "MASE": 1.1671,
+      "skill_vs_snaive": -0.26816
+    },
+    {
+      "resource": "electricity",
+      "model": "TimesFM",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1111.1267,
+      "MAE": 936.4789,
+      "MASE": 0.9606,
+      "skill_vs_snaive": -0.02737
+    },
+    {
+      "resource": "electricity",
+      "model": "TimesFM",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1113.6844,
+      "MAE": 939.0739,
+      "MASE": 0.9904,
+      "skill_vs_snaive": -0.06778
+    },
+    {
+      "resource": "electricity",
+      "model": "TimesFM",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1540.1273,
+      "MAE": 1389.2637,
+      "MASE": 2.7277,
+      "skill_vs_snaive": -1.80804
+    },
+    {
+      "resource": "electricity",
+      "model": "TimesFM",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1285.9682,
+      "MAE": 1126.72,
+      "MASE": 1.7767,
+      "skill_vs_snaive": -0.85764
+    },
+    {
+      "resource": "electricity",
+      "model": "TimesFM",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1113.3565,
+      "MAE": 938.7391,
+      "MASE": 0.9969,
+      "skill_vs_snaive": -0.07301
+    },
+    {
+      "resource": "electricity",
+      "model": "Nexus",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1016.6314,
+      "MAE": 857.5076,
+      "MASE": 0.8701,
+      "skill_vs_snaive": 0.04398
+    },
+    {
+      "resource": "electricity",
+      "model": "Nexus",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1019.2952,
+      "MAE": 860.0937,
+      "MASE": 0.9001,
+      "skill_vs_snaive": 0.00333
+    },
+    {
+      "resource": "electricity",
+      "model": "Nexus",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1491.6256,
+      "MAE": 1347.1417,
+      "MASE": 2.7132,
+      "skill_vs_snaive": -1.80916
+    },
+    {
+      "resource": "electricity",
+      "model": "Nexus",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1218.3729,
+      "MAE": 1064.3947,
+      "MASE": 1.7305,
+      "skill_vs_snaive": -0.8344
+    },
+    {
+      "resource": "electricity",
+      "model": "Nexus",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 1018.9582,
+      "MAE": 859.7716,
+      "MASE": 0.9066,
+      "skill_vs_snaive": -0.0019
+    },
+    {
+      "resource": "carbon",
+      "model": "SARIMA",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 30.7378,
+      "MAE": 25.7762,
+      "MASE": 0.8567,
+      "skill_vs_snaive": -0.21585
+    },
+    {
+      "resource": "carbon",
+      "model": "SARIMA",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 30.7285,
+      "MAE": 25.767,
+      "MASE": 0.8563,
+      "skill_vs_snaive": -0.21441
+    },
+    {
+      "resource": "carbon",
+      "model": "SARIMA",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 31.638,
+      "MAE": 26.6238,
+      "MASE": 1.0023,
+      "skill_vs_snaive": -0.26629
+    },
+    {
+      "resource": "carbon",
+      "model": "SARIMA",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 30.7169,
+      "MAE": 25.7035,
+      "MASE": 0.8856,
+      "skill_vs_snaive": -0.17745
+    },
+    {
+      "resource": "carbon",
+      "model": "SARIMA",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 30.7324,
+      "MAE": 25.7704,
+      "MASE": 0.8566,
+      "skill_vs_snaive": -0.21473
+    },
+    {
+      "resource": "carbon",
+      "model": "xLSTM",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 34.1437,
+      "MAE": 27.8913,
+      "MASE": 0.9149,
+      "skill_vs_snaive": -0.22737
+    },
+    {
+      "resource": "carbon",
+      "model": "xLSTM",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 34.1329,
+      "MAE": 27.8787,
+      "MASE": 0.9144,
+      "skill_vs_snaive": -0.22617
+    },
+    {
+      "resource": "carbon",
+      "model": "xLSTM",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 35.6489,
+      "MAE": 29.586,
+      "MASE": 1.1459,
+      "skill_vs_snaive": -0.48489
+    },
+    {
+      "resource": "carbon",
+      "model": "xLSTM",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 34.4351,
+      "MAE": 28.3535,
+      "MASE": 1.0032,
+      "skill_vs_snaive": -0.29496
+    },
+    {
+      "resource": "carbon",
+      "model": "xLSTM",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 34.1343,
+      "MAE": 27.8804,
+      "MASE": 0.9145,
+      "skill_vs_snaive": -0.22632
+    },
+    {
+      "resource": "carbon",
+      "model": "TimesFM",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 29.1274,
+      "MAE": 24.2332,
+      "MASE": 0.7788,
+      "skill_vs_snaive": 0.00465
+    },
+    {
+      "resource": "carbon",
+      "model": "TimesFM",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 29.1087,
+      "MAE": 24.2136,
+      "MASE": 0.7782,
+      "skill_vs_snaive": 0.00525
+    },
+    {
+      "resource": "carbon",
+      "model": "TimesFM",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 31.0155,
+      "MAE": 26.1653,
+      "MASE": 1.0204,
+      "skill_vs_snaive": -0.36653
+    },
+    {
+      "resource": "carbon",
+      "model": "TimesFM",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 29.6292,
+      "MAE": 24.8008,
+      "MASE": 0.8705,
+      "skill_vs_snaive": -0.14381
+    },
+    {
+      "resource": "carbon",
+      "model": "TimesFM",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 29.1083,
+      "MAE": 24.2134,
+      "MASE": 0.7782,
+      "skill_vs_snaive": 0.00526
+    },
+    {
+      "resource": "carbon",
+      "model": "Nexus",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 27.045,
+      "MAE": 22.5074,
+      "MASE": 0.7279,
+      "skill_vs_snaive": 0.04896
+    },
+    {
+      "resource": "carbon",
+      "model": "Nexus",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 27.0253,
+      "MAE": 22.4882,
+      "MASE": 0.7273,
+      "skill_vs_snaive": 0.0501
+    },
+    {
+      "resource": "carbon",
+      "model": "Nexus",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 28.7309,
+      "MAE": 24.1178,
+      "MASE": 0.9495,
+      "skill_vs_snaive": -0.27039
+    },
+    {
+      "resource": "carbon",
+      "model": "Nexus",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 27.3578,
+      "MAE": 22.7976,
+      "MASE": 0.8035,
+      "skill_vs_snaive": -0.05856
+    },
+    {
+      "resource": "carbon",
+      "model": "Nexus",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 27.0264,
+      "MAE": 22.4892,
+      "MASE": 0.7274,
+      "skill_vs_snaive": 0.05001
+    },
+    {
+      "resource": "water",
+      "model": "SARIMA",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 37.4835,
+      "MAE": 31.6864,
+      "MASE": 0.7229,
+      "skill_vs_snaive": 0.00918
+    },
+    {
+      "resource": "water",
+      "model": "SARIMA",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 37.4718,
+      "MAE": 31.6786,
+      "MASE": 0.7227,
+      "skill_vs_snaive": 0.00937
+    },
+    {
+      "resource": "water",
+      "model": "SARIMA",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 37.0551,
+      "MAE": 31.4543,
+      "MASE": 0.7182,
+      "skill_vs_snaive": 0.00707
+    },
+    {
+      "resource": "water",
+      "model": "SARIMA",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 37.2106,
+      "MAE": 31.5235,
+      "MASE": 0.7197,
+      "skill_vs_snaive": 0.0093
+    },
+    {
+      "resource": "water",
+      "model": "SARIMA",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 37.4719,
+      "MAE": 31.6786,
+      "MASE": 0.7227,
+      "skill_vs_snaive": 0.00937
+    },
+    {
+      "resource": "water",
+      "model": "xLSTM",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 50.5867,
+      "MAE": 42.1166,
+      "MASE": 0.9415,
+      "skill_vs_snaive": -0.38199
+    },
+    {
+      "resource": "water",
+      "model": "xLSTM",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 50.5707,
+      "MAE": 42.1021,
+      "MASE": 0.9412,
+      "skill_vs_snaive": -0.38151
+    },
+    {
+      "resource": "water",
+      "model": "xLSTM",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 49.098,
+      "MAE": 40.9306,
+      "MASE": 0.9156,
+      "skill_vs_snaive": -0.32966
+    },
+    {
+      "resource": "water",
+      "model": "xLSTM",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 49.7509,
+      "MAE": 41.4577,
+      "MASE": 0.9272,
+      "skill_vs_snaive": -0.35302
+    },
+    {
+      "resource": "water",
+      "model": "xLSTM",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 50.5708,
+      "MAE": 42.1021,
+      "MASE": 0.9412,
+      "skill_vs_snaive": -0.38151
+    },
+    {
+      "resource": "water",
+      "model": "TimesFM",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 36.2677,
+      "MAE": 28.6201,
+      "MASE": 0.6292,
+      "skill_vs_snaive": 0.06134
+    },
+    {
+      "resource": "water",
+      "model": "TimesFM",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 36.2682,
+      "MAE": 28.6158,
+      "MASE": 0.6291,
+      "skill_vs_snaive": 0.0613
+    },
+    {
+      "resource": "water",
+      "model": "TimesFM",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 36.4573,
+      "MAE": 28.8866,
+      "MASE": 0.6347,
+      "skill_vs_snaive": 0.04931
+    },
+    {
+      "resource": "water",
+      "model": "TimesFM",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 36.3108,
+      "MAE": 28.66,
+      "MASE": 0.6299,
+      "skill_vs_snaive": 0.05662
+    },
+    {
+      "resource": "water",
+      "model": "TimesFM",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 36.2684,
+      "MAE": 28.6159,
+      "MASE": 0.6291,
+      "skill_vs_snaive": 0.06129
+    },
+    {
+      "resource": "water",
+      "model": "Nexus",
+      "condition": "unweighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 31.2324,
+      "MAE": 24.4634,
+      "MASE": 0.5448,
+      "skill_vs_snaive": 0.20164
+    },
+    {
+      "resource": "water",
+      "model": "Nexus",
+      "condition": "gat_weighted",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 31.2287,
+      "MAE": 24.4581,
+      "MASE": 0.5447,
+      "skill_vs_snaive": 0.2017
+    },
+    {
+      "resource": "water",
+      "model": "Nexus",
+      "condition": "random_control",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 31.2563,
+      "MAE": 24.4244,
+      "MASE": 0.5434,
+      "skill_vs_snaive": 0.19229
+    },
+    {
+      "resource": "water",
+      "model": "Nexus",
+      "condition": "random_control_calibrated",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 31.1689,
+      "MAE": 24.3382,
+      "MASE": 0.542,
+      "skill_vs_snaive": 0.19891
+    },
+    {
+      "resource": "water",
+      "model": "Nexus",
+      "condition": "equal_weight_neighbour",
+      "stratum": "all",
+      "n_sites": 4889,
+      "RMSE": 31.229,
+      "MAE": 24.4584,
+      "MASE": 0.5447,
+      "skill_vs_snaive": 0.2017
+    }
+  ],
+  "part5": {
+    "5.1_edge_taxonomy": [
+      {
+        "resource": "electricity",
+        "edge_origin": "shared-zone",
+        "edges": 64988,
+        "LIVE": 0,
+        "INERT": 64988,
+        "live_%": 0.0
+      },
+      {
+        "resource": "electricity",
+        "edge_origin": "shared-basin(pfaf)",
+        "edges": 55252,
+        "LIVE": 1288,
+        "INERT": 53964,
+        "live_%": 2.331
+      },
+      {
+        "resource": "electricity",
+        "edge_origin": "ALL",
+        "edges": 66276,
+        "LIVE": 1288,
+        "INERT": 64988,
+        "live_%": 1.943
+      },
+      {
+        "resource": "carbon",
+        "edge_origin": "shared-zone",
+        "edges": 64988,
+        "LIVE": 0,
+        "INERT": 64988,
+        "live_%": 0.0
+      },
+      {
+        "resource": "carbon",
+        "edge_origin": "shared-basin(pfaf)",
+        "edges": 55252,
+        "LIVE": 1288,
+        "INERT": 53964,
+        "live_%": 2.331
+      },
+      {
+        "resource": "carbon",
+        "edge_origin": "ALL",
+        "edges": 66276,
+        "LIVE": 1288,
+        "INERT": 64988,
+        "live_%": 1.943
+      },
+      {
+        "resource": "water",
+        "edge_origin": "shared-zone",
+        "edges": 64988,
+        "LIVE": 1478,
+        "INERT": 63510,
+        "live_%": 2.274
+      },
+      {
+        "resource": "water",
+        "edge_origin": "shared-basin(pfaf)",
+        "edges": 55252,
+        "LIVE": 606,
+        "INERT": 54646,
+        "live_%": 1.097
+      },
+      {
+        "resource": "water",
+        "edge_origin": "ALL",
+        "edges": 66276,
+        "LIVE": 1554,
+        "INERT": 64722,
+        "live_%": 2.345
+      }
+    ],
+    "5.2_node_taxonomy": [
+      {
+        "resource": "electricity",
+        "nodes": 4889,
+        "boundary_nodes": 421,
+        "boundary_%": 8.61,
+        "n_countries_with_boundary": 17,
+        "n_regions_with_boundary": 51
+      },
+      {
+        "resource": "carbon",
+        "nodes": 4889,
+        "boundary_nodes": 421,
+        "boundary_%": 8.61,
+        "n_countries_with_boundary": 17,
+        "n_regions_with_boundary": 51
+      },
+      {
+        "resource": "water",
+        "nodes": 4889,
+        "boundary_nodes": 484,
+        "boundary_%": 9.9,
+        "n_countries_with_boundary": 16,
+        "n_regions_with_boundary": 20
+      }
+    ],
+    "5.3_region_pairs": [
+      {
+        "resource": "electricity",
+        "regions": 95,
+        "ordered_pairs": 106,
+        "unordered_pairs": 53,
+        "max_possible_unordered": 4465,
+        "pct_of_possible": 1.187
+      },
+      {
+        "resource": "carbon",
+        "regions": 95,
+        "ordered_pairs": 106,
+        "unordered_pairs": 53,
+        "max_possible_unordered": 4465,
+        "pct_of_possible": 1.187
+      },
+      {
+        "resource": "water",
+        "regions": 24,
+        "ordered_pairs": 44,
+        "unordered_pairs": 22,
+        "max_possible_unordered": 276,
+        "pct_of_possible": 7.971
+      }
+    ],
+    "5.5_5.6_viability": [
+      {
+        "resource": "electricity",
+        "n_connected": 53,
+        "n_unconnected": 4412,
+        "mean_rho_connected": 0.58553,
+        "mean_rho_unconnected": 0.15575,
+        "mannwhitney_p": 2.1536703954267848e-20,
+        "rank_biserial": 0.738406404488616,
+        "significant": true,
+        "direction": "connected pairs co-move MORE",
+        "dist_matched_p": 0.00042221357701336315,
+        "dist_matched_rho_connected": 0.58553,
+        "dist_matched_rho_unconnected": 0.41526,
+        "survives_distance_control": true
+      },
+      {
+        "resource": "carbon",
+        "n_connected": 53,
+        "n_unconnected": 4412,
+        "mean_rho_connected": 0.30109,
+        "mean_rho_unconnected": 0.08567,
+        "mannwhitney_p": 4.496465539777595e-16,
+        "rank_biserial": 0.6482406472912641,
+        "significant": true,
+        "direction": "connected pairs co-move MORE",
+        "dist_matched_p": 0.019723105304712836,
+        "dist_matched_rho_connected": 0.30109,
+        "dist_matched_rho_unconnected": 0.22321,
+        "survives_distance_control": true
+      },
+      {
+        "resource": "water",
+        "n_connected": 22,
+        "n_unconnected": 254,
+        "mean_rho_connected": 0.57477,
+        "mean_rho_unconnected": 0.09641,
+        "mannwhitney_p": 1.468177486601883e-06,
+        "rank_biserial": 0.6191839656406586,
+        "significant": true,
+        "direction": "connected pairs co-move MORE",
+        "dist_matched_p": 0.6303822918095695,
+        "dist_matched_rho_connected": 0.57477,
+        "dist_matched_rho_unconnected": 0.57234,
+        "survives_distance_control": false
+      }
+    ],
+    "5.7_boundary_geography": [
+      {
+        "resource": "electricity",
+        "live_edges": 1288,
+        "boundary_nodes": 421,
+        "median_km_to_nearest_cross_region": 43.0,
+        "p90_km": 138.5,
+        "max_km": 273.2,
+        "live_edges_over_500km": 0,
+        "pct_live_over_500km": 0.0
+      },
+      {
+        "resource": "carbon",
+        "live_edges": 1288,
+        "boundary_nodes": 421,
+        "median_km_to_nearest_cross_region": 43.0,
+        "p90_km": 138.5,
+        "max_km": 273.2,
+        "live_edges_over_500km": 0,
+        "pct_live_over_500km": 0.0
+      },
+      {
+        "resource": "water",
+        "live_edges": 1554,
+        "boundary_nodes": 484,
+        "median_km_to_nearest_cross_region": 88.1,
+        "p90_km": 267.3,
+        "max_km": 1802.8,
+        "live_edges_over_500km": 54,
+        "pct_live_over_500km": 3.47
+      }
+    ],
+    "5.8_basin_consistency": {
+      "median_assign_km": 554.4175275457455,
+      "p90_assign_km": 894.0896165075864,
+      "max_assign_km": 1655.246947765981,
+      "sites_over_500km": 2840,
+      "edge_partition_agreement_pct": 83.883,
+      "live_water_edges_g3p": 1554,
+      "live_and_cross_pfaf": 948
+    }
+  },
+  "6.3_verdict": {
+    "electricity": {
+      "comove": true,
+      "survives_distance": true,
+      "boundary_nodes": 421,
+      "bridged_pairs": 53,
+      "gat_beats_unweighted_boundary_fdr": false,
+      "gat_beats_calibrated_random": true,
+      "models_beating_seasonal_naive": [
+        "TimesFM",
+        "Nexus"
+      ],
+      "nexus_is_llm": false,
+      "gat_vs_equal_weight_rmse": [
+        1123.246,
+        1122.929
+      ]
+    },
+    "carbon": {
+      "comove": true,
+      "survives_distance": true,
+      "boundary_nodes": 421,
+      "bridged_pairs": 53,
+      "gat_beats_unweighted_boundary_fdr": false,
+      "gat_beats_calibrated_random": true,
+      "models_beating_seasonal_naive": [
+        "TimesFM",
+        "Nexus"
+      ],
+      "nexus_is_llm": false,
+      "gat_vs_equal_weight_rmse": [
+        30.249,
+        30.25
+      ]
+    },
+    "water": {
+      "comove": true,
+      "survives_distance": false,
+      "boundary_nodes": 484,
+      "bridged_pairs": 22,
+      "gat_beats_unweighted_boundary_fdr": false,
+      "gat_beats_calibrated_random": false,
+      "models_beating_seasonal_naive": [
+        "SARIMA",
+        "Nexus"
+      ],
+      "nexus_is_llm": false,
+      "gat_vs_equal_weight_rmse": [
+        38.885,
+        38.885
+      ]
+    }
+  }
+}
