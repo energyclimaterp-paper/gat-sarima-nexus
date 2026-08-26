@@ -1,0 +1,4 @@
+resource,regions,ordered_pairs,unordered_pairs,max_possible_unordered,pct_of_possible
+electricity,95,106,53,4465,1.187
+carbon,95,106,53,4465,1.187
+water,24,44,22,276,7.971

@@ -1,0 +1,46 @@
+{
+  "seeds": {
+    "SEED": 42
+  },
+  "versions": {
+    "python": "3.14.3",
+    "numpy": "2.4.2",
+    "pandas": "3.0.0",
+    "torch": "2.10.0+cpu",
+    "scipy": "1.17.0"
+  },
+  "inputs_sha256": {
+    "data/aligned_dataset.parquet": {
+      "sha256_16": "03dae75a074f6e4d",
+      "bytes": 314481
+    },
+    "data/weights/gat_weights_colocation.pt": {
+      "sha256_16": "54ef29309d66b8f3",
+      "bytes": 1641598
+    },
+    "data/weights/gat_weights_random_control.pt": {
+      "sha256_16": "d8ffc4e0bd5bd637",
+      "bytes": 1641642
+    },
+    "data/g3p/G3P_v1.12_tws_rivbas.csv": {
+      "sha256_16": "b669cc61b87475cd",
+      "bytes": 869607
+    }
+  },
+  "models_ran": [
+    "Nexus",
+    "SARIMA",
+    "TimesFM",
+    "xLSTM"
+  ],
+  "nexus_provenance": {
+    "GEMINI_CALLS": 214,
+    "via_LLM": 214,
+    "via_stat_fallback": 0,
+    "total": 214,
+    "backend": "chronos"
+  },
+  "holdout_months": 12,
+  "min_zone_months": 36,
+  "runtime_seconds": 7.0
+}

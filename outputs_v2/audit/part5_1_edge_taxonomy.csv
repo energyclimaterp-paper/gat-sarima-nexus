@@ -1,0 +1,10 @@
+resource,edge_origin,edges,LIVE,INERT,live_%
+electricity,shared-zone,64988,0,64988,0.0
+electricity,shared-basin(pfaf),55252,1288,53964,2.331
+electricity,ALL,66276,1288,64988,1.943
+carbon,shared-zone,64988,0,64988,0.0
+carbon,shared-basin(pfaf),55252,1288,53964,2.331
+carbon,ALL,66276,1288,64988,1.943
+water,shared-zone,64988,1478,63510,2.274
+water,shared-basin(pfaf),55252,606,54646,1.097
+water,ALL,66276,1554,64722,2.345

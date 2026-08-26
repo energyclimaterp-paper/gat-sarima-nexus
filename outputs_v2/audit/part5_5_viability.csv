@@ -1,0 +1,4 @@
+resource,n_connected,n_unconnected,mean_rho_connected,mean_rho_unconnected,mannwhitney_p,rank_biserial,significant,direction,dist_matched_p,dist_matched_rho_connected,dist_matched_rho_unconnected,survives_distance_control
+electricity,53,4412,0.58553,0.15575,2.1536703954267848e-20,0.738406404488616,True,connected pairs co-move MORE,0.00042221357701336315,0.58553,0.41526,True
+carbon,53,4412,0.30109,0.08567,4.496465539777595e-16,0.6482406472912641,True,connected pairs co-move MORE,0.019723105304712836,0.30109,0.22321,True
+water,22,254,0.57477,0.09641,1.468177486601883e-06,0.6191839656406586,True,connected pairs co-move MORE,0.6303822918095695,0.57477,0.57234,False

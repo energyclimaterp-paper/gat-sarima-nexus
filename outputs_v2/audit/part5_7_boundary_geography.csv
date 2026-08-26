@@ -1,0 +1,1327 @@
+resource,site_id,km_to_nearest_cross_region,region,bridged_to
+electricity,4,64.59,DEU,FRA
+electricity,2266,3.96,FRA,DEU
+electricity,3833,3.96,FRA,DEU
+electricity,3834,3.96,FRA,DEU
+electricity,3835,3.96,FRA,DEU
+electricity,3839,64.59,FRA,DEU
+electricity,26,56.62,USA|massachusetts,USA|rhode island
+electricity,3341,26.6,USA|rhode island,USA|massachusetts
+electricity,5012,83.16,USA|connecticut,USA|rhode island
+electricity,5134,68.05,USA|connecticut,USA|rhode island
+electricity,36,54.72,USA|new york,USA|connecticut
+electricity,1281,54.5,USA|connecticut,USA|new york
+electricity,60,56.52,USA|massachusetts,USA|rhode island
+electricity,62,6.59,USA|new jersey,USA|new york
+electricity,2904,6.12,USA|new york,USA|new jersey
+electricity,69,6.12,USA|new jersey,USA|new york
+electricity,106,18.43,USA|new jersey,USA|new york
+electricity,3031,18.43,USA|new york,USA|new jersey
+electricity,3032,18.43,USA|new york,USA|new jersey
+electricity,5236,18.99,USA|new york,USA|new jersey
+electricity,5319,19.0,USA|new york,USA|new jersey
+electricity,5322,19.0,USA|new york,USA|new jersey
+electricity,114,8.46,USA|pennsylvania,USA|new jersey
+electricity,2057,37.09,USA|delaware,USA|pennsylvania
+electricity,3778,8.18,USA|new jersey,USA|pennsylvania
+electricity,151,135.97,USA|iowa,USA|wisconsin
+electricity,6038,39.64,USA|wisconsin,USA|iowa
+electricity,161,3.06,USA|new jersey,USA|new york
+electricity,2903,40.42,USA|new york,USA|new jersey
+electricity,2905,40.42,USA|new york,USA|new jersey
+electricity,4338,40.42,USA|new york,USA|new jersey
+electricity,4528,3.0,USA|new york,USA|new jersey
+electricity,5468,40.17,USA|new york,USA|new jersey
+electricity,5558,2.98,USA|new york,USA|new jersey
+electricity,171,54.59,USA|new york,USA|connecticut
+electricity,3793,54.37,USA|connecticut,USA|new york
+electricity,173,204.72,USA|wisconsin,USA|michigan
+electricity,238,192.71,USA|michigan,USA|wisconsin
+electricity,1079,226.64,USA|michigan,USA|wisconsin
+electricity,6076,246.86,USA|michigan,USA|wisconsin
+electricity,209,8.46,USA|pennsylvania,USA|new jersey
+electricity,613,204.68,USA|wisconsin,USA|michigan
+electricity,2645,204.68,USA|wisconsin,USA|michigan
+electricity,2646,204.68,USA|wisconsin,USA|michigan
+electricity,2647,204.68,USA|wisconsin,USA|michigan
+electricity,5562,192.71,USA|wisconsin,USA|michigan
+electricity,253,9.69,USA|washington dc,USA|maryland
+electricity,569,9.69,USA|maryland,USA|washington dc
+electricity,261,144.23,IRL,GBR
+electricity,751,139.98,GBR,IRL
+electricity,1893,140.12,GBR,IRL
+electricity,303,27.68,USA|tennessee,USA|mississippi
+electricity,5087,7.48,USA|mississippi,USA|tennessee
+electricity,306,16.19,USA|ohio,USA|kentucky
+electricity,1655,15.38,USA|kentucky,USA|ohio
+electricity,309,60.83,USA|illinois,USA|wisconsin
+electricity,4863,68.12,USA|wisconsin,USA|illinois
+electricity,5820,60.57,USA|wisconsin,USA|illinois
+electricity,6036,68.97,USA|wisconsin,USA|illinois
+electricity,6037,69.54,USA|wisconsin,USA|illinois
+electricity,351,28.01,USA|new jersey,USA|new york
+electricity,404,9.69,USA|washington dc,USA|maryland
+electricity,488,33.48,USA|massachusetts,USA|new hampshire
+electricity,671,33.48,USA|new hampshire,USA|massachusetts
+electricity,4510,37.82,USA|new hampshire,USA|massachusetts
+electricity,4681,37.74,USA|new hampshire,USA|massachusetts
+electricity,489,33.48,USA|massachusetts,USA|new hampshire
+electricity,495,26.83,BEL,NLD
+electricity,808,44.7,NLD,BEL
+electricity,809,45.79,NLD,BEL
+electricity,1318,42.47,NLD,BEL
+electricity,1331,33.68,NLD,BEL
+electricity,1333,26.83,NLD,BEL
+electricity,2147,56.97,NLD,BEL
+electricity,2190,40.56,NLD,BEL
+electricity,3407,29.31,NLD,BEL
+electricity,496,29.28,BEL,NLD
+electricity,502,15.74,USA|kentucky,USA|indiana
+electricity,4959,15.74,USA|indiana,USA|kentucky
+electricity,4983,22.69,USA|indiana,USA|kentucky
+electricity,6047,37.02,USA|indiana,USA|kentucky
+electricity,517,85.59,USA|pennsylvania,USA|west virginia
+electricity,4165,70.23,USA|west virginia,USA|pennsylvania
+electricity,4852,86.79,USA|west virginia,USA|pennsylvania
+electricity,6118,18.47,USA|west virginia,USA|pennsylvania
+electricity,929,9.69,USA|washington dc,USA|maryland
+electricity,2597,9.69,USA|washington dc,USA|maryland
+electricity,2659,9.69,USA|washington dc,USA|maryland
+electricity,2842,9.69,USA|washington dc,USA|maryland
+electricity,3132,9.69,USA|washington dc,USA|maryland
+electricity,3188,9.69,USA|washington dc,USA|maryland
+electricity,787,46.63,USA|massachusetts,USA|new hampshire
+electricity,789,46.63,USA|massachusetts,USA|new hampshire
+electricity,793,34.07,USA|massachusetts,USA|new hampshire
+electricity,5446,34.07,USA|massachusetts,USA|new hampshire
+electricity,707,53.25,ITA,CHE
+electricity,3872,47.76,CHE,ITA
+electricity,4475,46.08,CHE,ITA
+electricity,4647,47.77,CHE,ITA
+electricity,725,75.03,FRA,CHE
+electricity,2271,75.03,CHE,FRA
+electricity,727,39.74,LUX,FRA
+electricity,4364,39.73,FRA,LUX
+electricity,752,144.23,IRL,GBR
+electricity,753,144.23,IRL,GBR
+electricity,883,144.23,IRL,GBR
+electricity,1088,144.23,IRL,GBR
+electricity,1089,139.98,IRL,GBR
+electricity,1090,144.23,IRL,GBR
+electricity,786,64.62,USA|massachusetts,USA|rhode island
+electricity,802,112.4,SVK,CZE
+electricity,879,112.4,CZE,SVK
+electricity,1349,155.2,CZE,SVK
+electricity,2533,112.73,CZE,SVK
+electricity,3275,114.67,CZE,SVK
+electricity,4693,112.4,CZE,SVK
+electricity,4697,114.68,CZE,SVK
+electricity,2260,29.27,BEL,NLD
+electricity,4210,26.83,BEL,NLD
+electricity,931,23.66,USA|new jersey,USA|new york
+electricity,951,17.08,USA|ohio,USA|kentucky
+electricity,969,103.73,CHE,FRA
+electricity,2836,104.18,FRA,CHE
+electricity,4227,103.73,FRA,CHE
+electricity,970,108.27,CHE,FRA
+electricity,998,43.59,USA|tennessee,USA|alabama
+electricity,5508,131.85,USA|alabama,USA|tennessee
+electricity,5604,122.84,USA|alabama,USA|tennessee
+electricity,5606,42.75,USA|alabama,USA|tennessee
+electricity,999,42.98,USA|tennessee,USA|alabama
+electricity,1000,103.74,CHE,FRA
+electricity,1015,70.12,USA|wyoming,USA|colorado
+electricity,1660,56.69,USA|colorado,USA|wyoming
+electricity,5333,62.87,USA|colorado,USA|wyoming
+electricity,1016,70.12,USA|wyoming,USA|colorado
+electricity,1018,60.83,USA|illinois,USA|wisconsin
+electricity,1052,60.83,USA|illinois,USA|wisconsin
+electricity,1065,16.83,USA|ohio,USA|kentucky
+electricity,1066,15.38,USA|ohio,USA|kentucky
+electricity,1070,40.22,USA|ohio,USA|michigan
+electricity,1664,47.88,USA|indiana,USA|ohio
+electricity,2013,55.31,USA|indiana,USA|ohio
+electricity,4865,52.71,USA|michigan,USA|ohio
+electricity,4876,43.58,USA|indiana,USA|ohio
+electricity,4946,37.8,USA|indiana,USA|ohio
+electricity,4964,43.58,USA|indiana,USA|ohio
+electricity,6016,35.88,USA|michigan,USA|ohio
+electricity,1076,85.59,USA|pennsylvania,USA|west virginia
+electricity,1109,22.62,USA|idaho,USA|washington
+electricity,3773,22.67,USA|washington,USA|idaho
+electricity,3774,47.19,USA|washington,USA|idaho
+electricity,4163,47.13,USA|washington,USA|idaho
+electricity,5457,22.62,USA|washington,USA|idaho
+electricity,5496,22.97,USA|washington,USA|idaho
+electricity,1119,48.75,LUX,DEU
+electricity,3427,46.38,DEU,FRA
+electricity,3430,45.33,DEU,FRA
+electricity,4627,46.33,DEU,FRA
+electricity,4628,45.31,DEU,FRA
+electricity,1139,142.7,USA|south carolina,USA|north carolina
+electricity,2186,26.88,USA|north carolina,USA|south carolina
+electricity,5280,33.58,USA|north carolina,USA|south carolina
+electricity,1188,3.4,USA|iowa,USA|nebraska
+electricity,1649,6.36,USA|nebraska,USA|iowa
+electricity,3013,10.88,USA|nebraska,USA|iowa
+electricity,3014,5.74,USA|nebraska,USA|iowa
+electricity,3016,13.39,USA|nebraska,USA|iowa
+electricity,3554,9.62,USA|nebraska,USA|iowa
+electricity,5393,13.34,USA|nebraska,USA|iowa
+electricity,5437,3.4,USA|nebraska,USA|iowa
+electricity,1199,8.46,USA|pennsylvania,USA|new jersey
+electricity,1200,8.46,USA|pennsylvania,USA|new jersey
+electricity,5527,54.37,USA|new york,USA|connecticut
+electricity,1288,8.46,USA|pennsylvania,USA|new jersey
+electricity,1289,111.98,HRV,SVN
+electricity,2076,114.82,SVN,HRV
+electricity,2316,114.82,SVN,HRV
+electricity,3715,115.64,SVN,HRV
+electricity,4142,111.98,SVN,HRV
+electricity,1290,111.98,HRV,SVN
+electricity,1293,111.98,HRV,SVN
+electricity,1315,32.78,NLD,BEL
+electricity,2315,23.64,BEL,NLD
+electricity,3742,28.19,DEU,NLD
+electricity,4269,40.22,BEL,NLD
+electricity,4310,40.22,BEL,NLD
+electricity,4684,24.87,BEL,NLD
+electricity,1328,23.64,NLD,BEL
+electricity,1332,42.47,NLD,DEU
+electricity,2202,27.81,DEU,NLD
+electricity,1398,8.46,USA|pennsylvania,USA|new jersey
+electricity,1408,88.53,USA|illinois,USA|wisconsin
+electricity,2454,129.84,USA|wisconsin,USA|illinois
+electricity,2456,131.75,USA|wisconsin,USA|illinois
+electricity,4907,83.91,USA|wisconsin,USA|illinois
+electricity,5546,131.81,USA|wisconsin,USA|illinois
+electricity,5818,174.38,USA|wisconsin,USA|illinois
+electricity,1455,96.14,USA|illinois,USA|wisconsin
+electricity,2770,81.34,USA|wisconsin,USA|illinois
+electricity,1469,15.78,USA|ohio,USA|kentucky
+electricity,1479,38.46,USA|ohio,USA|pennsylvania
+electricity,5352,62.19,USA|pennsylvania,USA|ohio
+electricity,6095,38.46,USA|pennsylvania,USA|ohio
+electricity,1512,39.64,USA|iowa,USA|wisconsin
+electricity,1538,16.5,USA|kentucky,USA|indiana
+electricity,1544,31.11,USA|ohio,USA|kentucky
+electricity,1569,27.09,NLD,BEL
+electricity,1570,18.82,USA|texas,USA|new mexico
+electricity,4840,16.72,USA|new mexico,USA|texas
+electricity,1571,18.82,USA|texas,USA|new mexico
+electricity,1572,18.82,USA|texas,USA|new mexico
+electricity,1574,109.09,USA|illinois,USA|wisconsin
+electricity,1578,42.62,NLD,DEU
+electricity,1584,35.61,NLD,BEL
+electricity,1606,96.18,USA|illinois,USA|wisconsin
+electricity,1611,48.11,LUX,FRA
+electricity,1619,26.6,USA|massachusetts,USA|rhode island
+electricity,4989,9.61,USA|iowa,USA|nebraska
+electricity,5108,9.61,USA|iowa,USA|nebraska
+electricity,5596,6.95,USA|iowa,USA|nebraska
+electricity,5809,12.08,USA|iowa,USA|nebraska
+electricity,1650,27.03,FRA,BEL
+electricity,3443,27.03,BEL,FRA
+electricity,1952,20.01,USA|ohio,USA|kentucky
+electricity,6080,15.77,USA|ohio,USA|kentucky
+electricity,2818,66.39,USA|wyoming,USA|colorado
+electricity,4848,56.69,USA|wyoming,USA|colorado
+electricity,4985,71.61,USA|wyoming,USA|colorado
+electricity,5778,63.91,USA|wyoming,USA|colorado
+electricity,6119,65.81,USA|wyoming,USA|colorado
+electricity,4072,35.88,USA|ohio,USA|michigan
+electricity,4936,37.8,USA|ohio,USA|indiana
+electricity,6083,75.77,USA|ohio,USA|indiana
+electricity,1754,108.27,CHE,FRA
+electricity,1755,108.27,CHE,FRA
+electricity,1760,46.08,ITA,CHE
+electricity,1762,139.18,DNK,DEU
+electricity,1912,135.83,DEU,DNK
+electricity,2181,140.04,DEU,DNK
+electricity,2182,132.62,DEU,DNK
+electricity,2183,134.82,DEU,DNK
+electricity,1789,74.23,USA|south carolina,USA|north carolina
+electricity,1860,133.74,USA|connecticut,USA|new hampshire
+electricity,2167,122.21,USA|new hampshire,USA|connecticut
+electricity,2274,203.44,USA|new hampshire,USA|connecticut
+electricity,1868,34.85,NLD,DEU
+electricity,1869,34.61,NLD,DEU
+electricity,1870,34.27,NLD,DEU
+electricity,2192,132.62,DNK,DEU
+electricity,2193,139.09,DNK,DEU
+electricity,2194,136.26,DNK,DEU
+electricity,4455,138.65,DNK,DEU
+electricity,1996,107.97,DEU,FRA
+electricity,3151,8.46,USA|pennsylvania,USA|new jersey
+electricity,5448,37.09,USA|pennsylvania,USA|delaware
+electricity,3779,114.22,HRV,SVN
+electricity,4232,119.03,HRV,SVN
+electricity,2088,120.04,DEU,DNK
+electricity,2163,122.91,DNK,DEU
+electricity,4363,144.15,DNK,DEU
+electricity,4456,184.38,DNK,DEU
+electricity,4746,120.04,DNK,DEU
+electricity,2110,44.58,USA|massachusetts,USA|rhode island
+electricity,2162,69.12,DEU,FRA
+electricity,2165,65.35,POL,CZE
+electricity,4694,65.35,CZE,POL
+electricity,4698,65.92,CZE,POL
+electricity,2989,139.44,USA|connecticut,USA|new hampshire
+electricity,5991,122.21,USA|connecticut,USA|new hampshire
+electricity,2168,3.96,DEU,FRA
+electricity,3836,3.96,FRA,DEU
+electricity,3837,3.96,FRA,DEU
+electricity,3838,3.96,FRA,DEU
+electricity,3840,3.96,FRA,DEU
+electricity,3772,142.56,USA|south carolina,USA|north carolina
+electricity,4997,26.88,USA|south carolina,USA|north carolina
+electricity,5374,73.57,USA|south carolina,USA|north carolina
+electricity,5487,73.79,USA|south carolina,USA|north carolina
+electricity,2451,47.33,NLD,DEU
+electricity,3396,39.25,NLD,DEU
+electricity,3913,29.03,NLD,DEU
+electricity,4204,28.78,NLD,DEU
+electricity,4205,27.81,NLD,DEU
+electricity,4206,28.98,NLD,DEU
+electricity,2250,156.0,CHE,FRA
+electricity,2511,110.34,DEU,FRA
+electricity,2825,75.03,FRA,CHE
+electricity,2289,18.67,USA|kansas,USA|missouri
+electricity,4945,14.19,USA|missouri,USA|kansas
+electricity,5478,18.99,USA|missouri,USA|kansas
+electricity,2290,18.43,USA|new jersey,USA|new york
+electricity,2299,53.38,FRA,BEL
+electricity,2424,15.81,USA|kentucky,USA|indiana
+electricity,2425,15.86,USA|kentucky,USA|indiana
+electricity,2426,16.35,USA|kentucky,USA|indiana
+electricity,2427,15.74,USA|kentucky,USA|indiana
+electricity,2428,15.74,USA|kentucky,USA|indiana
+electricity,5470,83.91,USA|illinois,USA|wisconsin
+electricity,5602,86.38,USA|illinois,USA|wisconsin
+electricity,2582,9.13,USA|tennessee,USA|mississippi
+electricity,4966,7.65,USA|arkansas,USA|tennessee
+electricity,5817,7.48,USA|arkansas,USA|tennessee
+electricity,2583,14.82,USA|tennessee,USA|arkansas
+electricity,2584,14.82,USA|tennessee,USA|arkansas
+electricity,2585,8.92,USA|tennessee,USA|mississippi
+electricity,5055,108.85,USA|illinois,USA|wisconsin
+electricity,5167,138.55,USA|illinois,USA|wisconsin
+electricity,5284,81.34,USA|illinois,USA|wisconsin
+electricity,5302,138.55,USA|illinois,USA|wisconsin
+electricity,6067,135.02,USA|illinois,USA|wisconsin
+electricity,2822,34.33,NLD,DEU
+electricity,2827,155.82,CHE,FRA
+electricity,2886,6.12,USA|new jersey,USA|new york
+electricity,4313,3.06,USA|new jersey,USA|new york
+electricity,5293,2.98,USA|new jersey,USA|new york
+electricity,5031,11.4,USA|new jersey,USA|new york
+electricity,2925,15.97,USA|kentucky,USA|indiana
+electricity,2979,5.65,ITA,SVN
+electricity,2980,5.65,SVN,ITA
+electricity,3033,22.62,USA|idaho,USA|washington
+electricity,3066,16.31,USA|kansas,USA|missouri
+electricity,3069,273.23,ITA,MLT
+electricity,4581,194.2,MLT,ITA
+electricity,4687,192.75,MLT,ITA
+electricity,3189,85.59,USA|pennsylvania,USA|west virginia
+electricity,3190,85.59,USA|pennsylvania,USA|west virginia
+electricity,3191,85.59,USA|pennsylvania,USA|west virginia
+electricity,3331,39.73,LUX,FRA
+electricity,3332,47.06,LUX,FRA
+electricity,3393,58.1,USA|massachusetts,USA|rhode island
+electricity,3577,42.11,USA|massachusetts,USA|rhode island
+electricity,5359,64.89,USA|massachusetts,USA|rhode island
+electricity,3413,53.71,FRA,BEL
+electricity,3415,53.71,FRA,BEL
+electricity,3417,53.71,FRA,BEL
+electricity,3429,61.64,DEU,FRA
+electricity,3439,53.49,FRA,BEL
+electricity,3484,192.75,ITA,MLT
+electricity,3499,69.48,DEU,FRA
+electricity,3549,61.49,USA|illinois,USA|wisconsin
+electricity,3627,273.23,ITA,MLT
+electricity,3714,46.74,NLD,DEU
+electricity,3721,28.19,NLD,DEU
+electricity,6009,8.18,USA|pennsylvania,USA|new jersey
+electricity,6010,35.82,USA|pennsylvania,USA|new jersey
+electricity,3792,57.96,USA|connecticut,USA|new york
+electricity,3999,135.97,USA|iowa,USA|wisconsin
+electricity,4115,18.38,USA|texas,USA|new mexico
+electricity,4895,18.47,USA|pennsylvania,USA|west virginia
+electricity,4246,34.74,USA|virginia,USA|west virginia
+electricity,5047,37.82,USA|west virginia,USA|virginia
+electricity,6117,34.74,USA|west virginia,USA|virginia
+electricity,4624,61.74,DEU,FRA
+electricity,4374,15.23,USA|tennessee,USA|mississippi
+electricity,4699,71.2,POL,CZE
+electricity,4802,14.19,USA|kansas,USA|missouri
+electricity,4827,103.63,USA|west virginia,USA|ohio
+electricity,5615,103.63,USA|ohio,USA|west virginia
+electricity,6100,103.63,USA|ohio,USA|west virginia
+electricity,4839,46.6,USA|indiana,USA|illinois
+electricity,5822,18.07,USA|illinois,USA|indiana
+electricity,4885,33.39,USA|texas,USA|new mexico
+electricity,5445,39.32,USA|texas,USA|new mexico
+electricity,5777,16.72,USA|texas,USA|new mexico
+electricity,4844,103.63,USA|west virginia,USA|ohio
+electricity,4854,7.48,USA|tennessee,USA|mississippi
+electricity,5489,60.57,USA|illinois,USA|wisconsin
+electricity,4917,53.63,USA|ohio,USA|pennsylvania
+electricity,4940,140.95,USA|alabama,USA|georgia
+electricity,5833,140.95,USA|georgia,USA|alabama
+electricity,6066,142.82,USA|georgia,USA|alabama
+electricity,4950,37.02,USA|kentucky,USA|indiana
+electricity,4952,53.4,USA|virginia,USA|north carolina
+electricity,5143,74.11,USA|north carolina,USA|virginia
+electricity,6041,46.06,USA|north carolina,USA|virginia
+electricity,5832,22.69,USA|kentucky,USA|indiana
+electricity,4960,98.45,USA|kentucky,USA|indiana
+electricity,4963,55.52,USA|georgia,USA|south carolina
+electricity,5871,33.71,USA|south carolina,USA|georgia
+electricity,5018,7.48,USA|tennessee,USA|arkansas
+electricity,4978,59.83,USA|virginia,USA|north carolina
+electricity,5004,13.34,USA|maryland,USA|virginia
+electricity,5015,14.87,USA|virginia,USA|maryland
+electricity,5910,15.38,USA|virginia,USA|maryland
+electricity,5916,15.46,USA|virginia,USA|maryland
+electricity,5924,13.34,USA|virginia,USA|maryland
+electricity,5927,15.86,USA|virginia,USA|maryland
+electricity,5932,14.33,USA|virginia,USA|maryland
+electricity,5940,15.68,USA|virginia,USA|maryland
+electricity,5943,15.08,USA|virginia,USA|maryland
+electricity,5026,18.07,USA|indiana,USA|illinois
+electricity,5152,19.68,USA|illinois,USA|indiana
+electricity,5262,21.23,USA|illinois,USA|indiana
+electricity,5266,20.99,USA|illinois,USA|indiana
+electricity,5383,18.45,USA|illinois,USA|indiana
+electricity,5459,21.19,USA|illinois,USA|indiana
+electricity,5510,20.97,USA|illinois,USA|indiana
+electricity,5547,20.92,USA|illinois,USA|indiana
+electricity,5056,33.71,USA|georgia,USA|south carolina
+electricity,5544,9.08,USA|tennessee,USA|mississippi
+electricity,6006,27.8,USA|tennessee,USA|mississippi
+electricity,5349,119.2,USA|massachusetts,USA|connecticut
+electricity,5623,59.83,USA|virginia,USA|north carolina
+electricity,5874,115.72,USA|virginia,USA|north carolina
+electricity,5876,46.06,USA|virginia,USA|north carolina
+electricity,5877,46.06,USA|virginia,USA|north carolina
+electricity,5878,61.06,USA|virginia,USA|north carolina
+electricity,6101,61.06,USA|virginia,USA|north carolina
+electricity,5192,172.25,USA|alabama,USA|georgia
+electricity,6033,55.68,USA|ohio,USA|pennsylvania
+electricity,5549,43.02,USA|tennessee,USA|alabama
+electricity,6098,42.75,USA|tennessee,USA|alabama
+electricity,5616,93.57,USA|virginia,USA|west virginia
+electricity,6087,34.24,USA|ohio,USA|west virginia
+electricity,6088,40.39,USA|ohio,USA|west virginia
+electricity,6115,93.57,USA|west virginia,USA|virginia
+electricity,6116,34.24,USA|west virginia,USA|ohio
+electricity,5868,46.41,USA|georgia,USA|south carolina
+electricity,5869,36.7,USA|georgia,USA|south carolina
+electricity,6058,48.57,USA|georgia,USA|south carolina
+electricity,6121,47.27,USA|georgia,USA|south carolina
+carbon,4,64.59,DEU,FRA
+carbon,2266,3.96,FRA,DEU
+carbon,3833,3.96,FRA,DEU
+carbon,3834,3.96,FRA,DEU
+carbon,3835,3.96,FRA,DEU
+carbon,3839,64.59,FRA,DEU
+carbon,26,56.62,USA|massachusetts,USA|rhode island
+carbon,3341,26.6,USA|rhode island,USA|massachusetts
+carbon,5012,83.16,USA|connecticut,USA|rhode island
+carbon,5134,68.05,USA|connecticut,USA|rhode island
+carbon,36,54.72,USA|new york,USA|connecticut
+carbon,1281,54.5,USA|connecticut,USA|new york
+carbon,60,56.52,USA|massachusetts,USA|rhode island
+carbon,62,6.59,USA|new jersey,USA|new york
+carbon,2904,6.12,USA|new york,USA|new jersey
+carbon,69,6.12,USA|new jersey,USA|new york
+carbon,106,18.43,USA|new jersey,USA|new york
+carbon,3031,18.43,USA|new york,USA|new jersey
+carbon,3032,18.43,USA|new york,USA|new jersey
+carbon,5236,18.99,USA|new york,USA|new jersey
+carbon,5319,19.0,USA|new york,USA|new jersey
+carbon,5322,19.0,USA|new york,USA|new jersey
+carbon,114,8.46,USA|pennsylvania,USA|new jersey
+carbon,2057,37.09,USA|delaware,USA|pennsylvania
+carbon,3778,8.18,USA|new jersey,USA|pennsylvania
+carbon,151,135.97,USA|iowa,USA|wisconsin
+carbon,6038,39.64,USA|wisconsin,USA|iowa
+carbon,161,3.06,USA|new jersey,USA|new york
+carbon,2903,40.42,USA|new york,USA|new jersey
+carbon,2905,40.42,USA|new york,USA|new jersey
+carbon,4338,40.42,USA|new york,USA|new jersey
+carbon,4528,3.0,USA|new york,USA|new jersey
+carbon,5468,40.17,USA|new york,USA|new jersey
+carbon,5558,2.98,USA|new york,USA|new jersey
+carbon,171,54.59,USA|new york,USA|connecticut
+carbon,3793,54.37,USA|connecticut,USA|new york
+carbon,173,204.72,USA|wisconsin,USA|michigan
+carbon,238,192.71,USA|michigan,USA|wisconsin
+carbon,1079,226.64,USA|michigan,USA|wisconsin
+carbon,6076,246.86,USA|michigan,USA|wisconsin
+carbon,209,8.46,USA|pennsylvania,USA|new jersey
+carbon,613,204.68,USA|wisconsin,USA|michigan
+carbon,2645,204.68,USA|wisconsin,USA|michigan
+carbon,2646,204.68,USA|wisconsin,USA|michigan
+carbon,2647,204.68,USA|wisconsin,USA|michigan
+carbon,5562,192.71,USA|wisconsin,USA|michigan
+carbon,253,9.69,USA|washington dc,USA|maryland
+carbon,569,9.69,USA|maryland,USA|washington dc
+carbon,261,144.23,IRL,GBR
+carbon,751,139.98,GBR,IRL
+carbon,1893,140.12,GBR,IRL
+carbon,303,27.68,USA|tennessee,USA|mississippi
+carbon,5087,7.48,USA|mississippi,USA|tennessee
+carbon,306,16.19,USA|ohio,USA|kentucky
+carbon,1655,15.38,USA|kentucky,USA|ohio
+carbon,309,60.83,USA|illinois,USA|wisconsin
+carbon,4863,68.12,USA|wisconsin,USA|illinois
+carbon,5820,60.57,USA|wisconsin,USA|illinois
+carbon,6036,68.97,USA|wisconsin,USA|illinois
+carbon,6037,69.54,USA|wisconsin,USA|illinois
+carbon,351,28.01,USA|new jersey,USA|new york
+carbon,404,9.69,USA|washington dc,USA|maryland
+carbon,488,33.48,USA|massachusetts,USA|new hampshire
+carbon,671,33.48,USA|new hampshire,USA|massachusetts
+carbon,4510,37.82,USA|new hampshire,USA|massachusetts
+carbon,4681,37.74,USA|new hampshire,USA|massachusetts
+carbon,489,33.48,USA|massachusetts,USA|new hampshire
+carbon,495,26.83,BEL,NLD
+carbon,808,44.7,NLD,BEL
+carbon,809,45.79,NLD,BEL
+carbon,1318,42.47,NLD,BEL
+carbon,1331,33.68,NLD,BEL
+carbon,1333,26.83,NLD,BEL
+carbon,2147,56.97,NLD,BEL
+carbon,2190,40.56,NLD,BEL
+carbon,3407,29.31,NLD,BEL
+carbon,496,29.28,BEL,NLD
+carbon,502,15.74,USA|kentucky,USA|indiana
+carbon,4959,15.74,USA|indiana,USA|kentucky
+carbon,4983,22.69,USA|indiana,USA|kentucky
+carbon,6047,37.02,USA|indiana,USA|kentucky
+carbon,517,85.59,USA|pennsylvania,USA|west virginia
+carbon,4165,70.23,USA|west virginia,USA|pennsylvania
+carbon,4852,86.79,USA|west virginia,USA|pennsylvania
+carbon,6118,18.47,USA|west virginia,USA|pennsylvania
+carbon,929,9.69,USA|washington dc,USA|maryland
+carbon,2597,9.69,USA|washington dc,USA|maryland
+carbon,2659,9.69,USA|washington dc,USA|maryland
+carbon,2842,9.69,USA|washington dc,USA|maryland
+carbon,3132,9.69,USA|washington dc,USA|maryland
+carbon,3188,9.69,USA|washington dc,USA|maryland
+carbon,787,46.63,USA|massachusetts,USA|new hampshire
+carbon,789,46.63,USA|massachusetts,USA|new hampshire
+carbon,793,34.07,USA|massachusetts,USA|new hampshire
+carbon,5446,34.07,USA|massachusetts,USA|new hampshire
+carbon,707,53.25,ITA,CHE
+carbon,3872,47.76,CHE,ITA
+carbon,4475,46.08,CHE,ITA
+carbon,4647,47.77,CHE,ITA
+carbon,725,75.03,FRA,CHE
+carbon,2271,75.03,CHE,FRA
+carbon,727,39.74,LUX,FRA
+carbon,4364,39.73,FRA,LUX
+carbon,752,144.23,IRL,GBR
+carbon,753,144.23,IRL,GBR
+carbon,883,144.23,IRL,GBR
+carbon,1088,144.23,IRL,GBR
+carbon,1089,139.98,IRL,GBR
+carbon,1090,144.23,IRL,GBR
+carbon,786,64.62,USA|massachusetts,USA|rhode island
+carbon,802,112.4,SVK,CZE
+carbon,879,112.4,CZE,SVK
+carbon,1349,155.2,CZE,SVK
+carbon,2533,112.73,CZE,SVK
+carbon,3275,114.67,CZE,SVK
+carbon,4693,112.4,CZE,SVK
+carbon,4697,114.68,CZE,SVK
+carbon,2260,29.27,BEL,NLD
+carbon,4210,26.83,BEL,NLD
+carbon,931,23.66,USA|new jersey,USA|new york
+carbon,951,17.08,USA|ohio,USA|kentucky
+carbon,969,103.73,CHE,FRA
+carbon,2836,104.18,FRA,CHE
+carbon,4227,103.73,FRA,CHE
+carbon,970,108.27,CHE,FRA
+carbon,998,43.59,USA|tennessee,USA|alabama
+carbon,5508,131.85,USA|alabama,USA|tennessee
+carbon,5604,122.84,USA|alabama,USA|tennessee
+carbon,5606,42.75,USA|alabama,USA|tennessee
+carbon,999,42.98,USA|tennessee,USA|alabama
+carbon,1000,103.74,CHE,FRA
+carbon,1015,70.12,USA|wyoming,USA|colorado
+carbon,1660,56.69,USA|colorado,USA|wyoming
+carbon,5333,62.87,USA|colorado,USA|wyoming
+carbon,1016,70.12,USA|wyoming,USA|colorado
+carbon,1018,60.83,USA|illinois,USA|wisconsin
+carbon,1052,60.83,USA|illinois,USA|wisconsin
+carbon,1065,16.83,USA|ohio,USA|kentucky
+carbon,1066,15.38,USA|ohio,USA|kentucky
+carbon,1070,40.22,USA|ohio,USA|michigan
+carbon,1664,47.88,USA|indiana,USA|ohio
+carbon,2013,55.31,USA|indiana,USA|ohio
+carbon,4865,52.71,USA|michigan,USA|ohio
+carbon,4876,43.58,USA|indiana,USA|ohio
+carbon,4946,37.8,USA|indiana,USA|ohio
+carbon,4964,43.58,USA|indiana,USA|ohio
+carbon,6016,35.88,USA|michigan,USA|ohio
+carbon,1076,85.59,USA|pennsylvania,USA|west virginia
+carbon,1109,22.62,USA|idaho,USA|washington
+carbon,3773,22.67,USA|washington,USA|idaho
+carbon,3774,47.19,USA|washington,USA|idaho
+carbon,4163,47.13,USA|washington,USA|idaho
+carbon,5457,22.62,USA|washington,USA|idaho
+carbon,5496,22.97,USA|washington,USA|idaho
+carbon,1119,48.75,LUX,DEU
+carbon,3427,46.38,DEU,FRA
+carbon,3430,45.33,DEU,FRA
+carbon,4627,46.33,DEU,FRA
+carbon,4628,45.31,DEU,FRA
+carbon,1139,142.7,USA|south carolina,USA|north carolina
+carbon,2186,26.88,USA|north carolina,USA|south carolina
+carbon,5280,33.58,USA|north carolina,USA|south carolina
+carbon,1188,3.4,USA|iowa,USA|nebraska
+carbon,1649,6.36,USA|nebraska,USA|iowa
+carbon,3013,10.88,USA|nebraska,USA|iowa
+carbon,3014,5.74,USA|nebraska,USA|iowa
+carbon,3016,13.39,USA|nebraska,USA|iowa
+carbon,3554,9.62,USA|nebraska,USA|iowa
+carbon,5393,13.34,USA|nebraska,USA|iowa
+carbon,5437,3.4,USA|nebraska,USA|iowa
+carbon,1199,8.46,USA|pennsylvania,USA|new jersey
+carbon,1200,8.46,USA|pennsylvania,USA|new jersey
+carbon,5527,54.37,USA|new york,USA|connecticut
+carbon,1288,8.46,USA|pennsylvania,USA|new jersey
+carbon,1289,111.98,HRV,SVN
+carbon,2076,114.82,SVN,HRV
+carbon,2316,114.82,SVN,HRV
+carbon,3715,115.64,SVN,HRV
+carbon,4142,111.98,SVN,HRV
+carbon,1290,111.98,HRV,SVN
+carbon,1293,111.98,HRV,SVN
+carbon,1315,32.78,NLD,BEL
+carbon,2315,23.64,BEL,NLD
+carbon,3742,28.19,DEU,NLD
+carbon,4269,40.22,BEL,NLD
+carbon,4310,40.22,BEL,NLD
+carbon,4684,24.87,BEL,NLD
+carbon,1328,23.64,NLD,BEL
+carbon,1332,42.47,NLD,DEU
+carbon,2202,27.81,DEU,NLD
+carbon,1398,8.46,USA|pennsylvania,USA|new jersey
+carbon,1408,88.53,USA|illinois,USA|wisconsin
+carbon,2454,129.84,USA|wisconsin,USA|illinois
+carbon,2456,131.75,USA|wisconsin,USA|illinois
+carbon,4907,83.91,USA|wisconsin,USA|illinois
+carbon,5546,131.81,USA|wisconsin,USA|illinois
+carbon,5818,174.38,USA|wisconsin,USA|illinois
+carbon,1455,96.14,USA|illinois,USA|wisconsin
+carbon,2770,81.34,USA|wisconsin,USA|illinois
+carbon,1469,15.78,USA|ohio,USA|kentucky
+carbon,1479,38.46,USA|ohio,USA|pennsylvania
+carbon,5352,62.19,USA|pennsylvania,USA|ohio
+carbon,6095,38.46,USA|pennsylvania,USA|ohio
+carbon,1512,39.64,USA|iowa,USA|wisconsin
+carbon,1538,16.5,USA|kentucky,USA|indiana
+carbon,1544,31.11,USA|ohio,USA|kentucky
+carbon,1569,27.09,NLD,BEL
+carbon,1570,18.82,USA|texas,USA|new mexico
+carbon,4840,16.72,USA|new mexico,USA|texas
+carbon,1571,18.82,USA|texas,USA|new mexico
+carbon,1572,18.82,USA|texas,USA|new mexico
+carbon,1574,109.09,USA|illinois,USA|wisconsin
+carbon,1578,42.62,NLD,DEU
+carbon,1584,35.61,NLD,BEL
+carbon,1606,96.18,USA|illinois,USA|wisconsin
+carbon,1611,48.11,LUX,FRA
+carbon,1619,26.6,USA|massachusetts,USA|rhode island
+carbon,4989,9.61,USA|iowa,USA|nebraska
+carbon,5108,9.61,USA|iowa,USA|nebraska
+carbon,5596,6.95,USA|iowa,USA|nebraska
+carbon,5809,12.08,USA|iowa,USA|nebraska
+carbon,1650,27.03,FRA,BEL
+carbon,3443,27.03,BEL,FRA
+carbon,1952,20.01,USA|ohio,USA|kentucky
+carbon,6080,15.77,USA|ohio,USA|kentucky
+carbon,2818,66.39,USA|wyoming,USA|colorado
+carbon,4848,56.69,USA|wyoming,USA|colorado
+carbon,4985,71.61,USA|wyoming,USA|colorado
+carbon,5778,63.91,USA|wyoming,USA|colorado
+carbon,6119,65.81,USA|wyoming,USA|colorado
+carbon,4072,35.88,USA|ohio,USA|michigan
+carbon,4936,37.8,USA|ohio,USA|indiana
+carbon,6083,75.77,USA|ohio,USA|indiana
+carbon,1754,108.27,CHE,FRA
+carbon,1755,108.27,CHE,FRA
+carbon,1760,46.08,ITA,CHE
+carbon,1762,139.18,DNK,DEU
+carbon,1912,135.83,DEU,DNK
+carbon,2181,140.04,DEU,DNK
+carbon,2182,132.62,DEU,DNK
+carbon,2183,134.82,DEU,DNK
+carbon,1789,74.23,USA|south carolina,USA|north carolina
+carbon,1860,133.74,USA|connecticut,USA|new hampshire
+carbon,2167,122.21,USA|new hampshire,USA|connecticut
+carbon,2274,203.44,USA|new hampshire,USA|connecticut
+carbon,1868,34.85,NLD,DEU
+carbon,1869,34.61,NLD,DEU
+carbon,1870,34.27,NLD,DEU
+carbon,2192,132.62,DNK,DEU
+carbon,2193,139.09,DNK,DEU
+carbon,2194,136.26,DNK,DEU
+carbon,4455,138.65,DNK,DEU
+carbon,1996,107.97,DEU,FRA
+carbon,3151,8.46,USA|pennsylvania,USA|new jersey
+carbon,5448,37.09,USA|pennsylvania,USA|delaware
+carbon,3779,114.22,HRV,SVN
+carbon,4232,119.03,HRV,SVN
+carbon,2088,120.04,DEU,DNK
+carbon,2163,122.91,DNK,DEU
+carbon,4363,144.15,DNK,DEU
+carbon,4456,184.38,DNK,DEU
+carbon,4746,120.04,DNK,DEU
+carbon,2110,44.58,USA|massachusetts,USA|rhode island
+carbon,2162,69.12,DEU,FRA
+carbon,2165,65.35,POL,CZE
+carbon,4694,65.35,CZE,POL
+carbon,4698,65.92,CZE,POL
+carbon,2989,139.44,USA|connecticut,USA|new hampshire
+carbon,5991,122.21,USA|connecticut,USA|new hampshire
+carbon,2168,3.96,DEU,FRA
+carbon,3836,3.96,FRA,DEU
+carbon,3837,3.96,FRA,DEU
+carbon,3838,3.96,FRA,DEU
+carbon,3840,3.96,FRA,DEU
+carbon,3772,142.56,USA|south carolina,USA|north carolina
+carbon,4997,26.88,USA|south carolina,USA|north carolina
+carbon,5374,73.57,USA|south carolina,USA|north carolina
+carbon,5487,73.79,USA|south carolina,USA|north carolina
+carbon,2451,47.33,NLD,DEU
+carbon,3396,39.25,NLD,DEU
+carbon,3913,29.03,NLD,DEU
+carbon,4204,28.78,NLD,DEU
+carbon,4205,27.81,NLD,DEU
+carbon,4206,28.98,NLD,DEU
+carbon,2250,156.0,CHE,FRA
+carbon,2511,110.34,DEU,FRA
+carbon,2825,75.03,FRA,CHE
+carbon,2289,18.67,USA|kansas,USA|missouri
+carbon,4945,14.19,USA|missouri,USA|kansas
+carbon,5478,18.99,USA|missouri,USA|kansas
+carbon,2290,18.43,USA|new jersey,USA|new york
+carbon,2299,53.38,FRA,BEL
+carbon,2424,15.81,USA|kentucky,USA|indiana
+carbon,2425,15.86,USA|kentucky,USA|indiana
+carbon,2426,16.35,USA|kentucky,USA|indiana
+carbon,2427,15.74,USA|kentucky,USA|indiana
+carbon,2428,15.74,USA|kentucky,USA|indiana
+carbon,5470,83.91,USA|illinois,USA|wisconsin
+carbon,5602,86.38,USA|illinois,USA|wisconsin
+carbon,2582,9.13,USA|tennessee,USA|mississippi
+carbon,4966,7.65,USA|arkansas,USA|tennessee
+carbon,5817,7.48,USA|arkansas,USA|tennessee
+carbon,2583,14.82,USA|tennessee,USA|arkansas
+carbon,2584,14.82,USA|tennessee,USA|arkansas
+carbon,2585,8.92,USA|tennessee,USA|mississippi
+carbon,5055,108.85,USA|illinois,USA|wisconsin
+carbon,5167,138.55,USA|illinois,USA|wisconsin
+carbon,5284,81.34,USA|illinois,USA|wisconsin
+carbon,5302,138.55,USA|illinois,USA|wisconsin
+carbon,6067,135.02,USA|illinois,USA|wisconsin
+carbon,2822,34.33,NLD,DEU
+carbon,2827,155.82,CHE,FRA
+carbon,2886,6.12,USA|new jersey,USA|new york
+carbon,4313,3.06,USA|new jersey,USA|new york
+carbon,5293,2.98,USA|new jersey,USA|new york
+carbon,5031,11.4,USA|new jersey,USA|new york
+carbon,2925,15.97,USA|kentucky,USA|indiana
+carbon,2979,5.65,ITA,SVN
+carbon,2980,5.65,SVN,ITA
+carbon,3033,22.62,USA|idaho,USA|washington
+carbon,3066,16.31,USA|kansas,USA|missouri
+carbon,3069,273.23,ITA,MLT
+carbon,4581,194.2,MLT,ITA
+carbon,4687,192.75,MLT,ITA
+carbon,3189,85.59,USA|pennsylvania,USA|west virginia
+carbon,3190,85.59,USA|pennsylvania,USA|west virginia
+carbon,3191,85.59,USA|pennsylvania,USA|west virginia
+carbon,3331,39.73,LUX,FRA
+carbon,3332,47.06,LUX,FRA
+carbon,3393,58.1,USA|massachusetts,USA|rhode island
+carbon,3577,42.11,USA|massachusetts,USA|rhode island
+carbon,5359,64.89,USA|massachusetts,USA|rhode island
+carbon,3413,53.71,FRA,BEL
+carbon,3415,53.71,FRA,BEL
+carbon,3417,53.71,FRA,BEL
+carbon,3429,61.64,DEU,FRA
+carbon,3439,53.49,FRA,BEL
+carbon,3484,192.75,ITA,MLT
+carbon,3499,69.48,DEU,FRA
+carbon,3549,61.49,USA|illinois,USA|wisconsin
+carbon,3627,273.23,ITA,MLT
+carbon,3714,46.74,NLD,DEU
+carbon,3721,28.19,NLD,DEU
+carbon,6009,8.18,USA|pennsylvania,USA|new jersey
+carbon,6010,35.82,USA|pennsylvania,USA|new jersey
+carbon,3792,57.96,USA|connecticut,USA|new york
+carbon,3999,135.97,USA|iowa,USA|wisconsin
+carbon,4115,18.38,USA|texas,USA|new mexico
+carbon,4895,18.47,USA|pennsylvania,USA|west virginia
+carbon,4246,34.74,USA|virginia,USA|west virginia
+carbon,5047,37.82,USA|west virginia,USA|virginia
+carbon,6117,34.74,USA|west virginia,USA|virginia
+carbon,4624,61.74,DEU,FRA
+carbon,4374,15.23,USA|tennessee,USA|mississippi
+carbon,4699,71.2,POL,CZE
+carbon,4802,14.19,USA|kansas,USA|missouri
+carbon,4827,103.63,USA|west virginia,USA|ohio
+carbon,5615,103.63,USA|ohio,USA|west virginia
+carbon,6100,103.63,USA|ohio,USA|west virginia
+carbon,4839,46.6,USA|indiana,USA|illinois
+carbon,5822,18.07,USA|illinois,USA|indiana
+carbon,4885,33.39,USA|texas,USA|new mexico
+carbon,5445,39.32,USA|texas,USA|new mexico
+carbon,5777,16.72,USA|texas,USA|new mexico
+carbon,4844,103.63,USA|west virginia,USA|ohio
+carbon,4854,7.48,USA|tennessee,USA|mississippi
+carbon,5489,60.57,USA|illinois,USA|wisconsin
+carbon,4917,53.63,USA|ohio,USA|pennsylvania
+carbon,4940,140.95,USA|alabama,USA|georgia
+carbon,5833,140.95,USA|georgia,USA|alabama
+carbon,6066,142.82,USA|georgia,USA|alabama
+carbon,4950,37.02,USA|kentucky,USA|indiana
+carbon,4952,53.4,USA|virginia,USA|north carolina
+carbon,5143,74.11,USA|north carolina,USA|virginia
+carbon,6041,46.06,USA|north carolina,USA|virginia
+carbon,5832,22.69,USA|kentucky,USA|indiana
+carbon,4960,98.45,USA|kentucky,USA|indiana
+carbon,4963,55.52,USA|georgia,USA|south carolina
+carbon,5871,33.71,USA|south carolina,USA|georgia
+carbon,5018,7.48,USA|tennessee,USA|arkansas
+carbon,4978,59.83,USA|virginia,USA|north carolina
+carbon,5004,13.34,USA|maryland,USA|virginia
+carbon,5015,14.87,USA|virginia,USA|maryland
+carbon,5910,15.38,USA|virginia,USA|maryland
+carbon,5916,15.46,USA|virginia,USA|maryland
+carbon,5924,13.34,USA|virginia,USA|maryland
+carbon,5927,15.86,USA|virginia,USA|maryland
+carbon,5932,14.33,USA|virginia,USA|maryland
+carbon,5940,15.68,USA|virginia,USA|maryland
+carbon,5943,15.08,USA|virginia,USA|maryland
+carbon,5026,18.07,USA|indiana,USA|illinois
+carbon,5152,19.68,USA|illinois,USA|indiana
+carbon,5262,21.23,USA|illinois,USA|indiana
+carbon,5266,20.99,USA|illinois,USA|indiana
+carbon,5383,18.45,USA|illinois,USA|indiana
+carbon,5459,21.19,USA|illinois,USA|indiana
+carbon,5510,20.97,USA|illinois,USA|indiana
+carbon,5547,20.92,USA|illinois,USA|indiana
+carbon,5056,33.71,USA|georgia,USA|south carolina
+carbon,5544,9.08,USA|tennessee,USA|mississippi
+carbon,6006,27.8,USA|tennessee,USA|mississippi
+carbon,5349,119.2,USA|massachusetts,USA|connecticut
+carbon,5623,59.83,USA|virginia,USA|north carolina
+carbon,5874,115.72,USA|virginia,USA|north carolina
+carbon,5876,46.06,USA|virginia,USA|north carolina
+carbon,5877,46.06,USA|virginia,USA|north carolina
+carbon,5878,61.06,USA|virginia,USA|north carolina
+carbon,6101,61.06,USA|virginia,USA|north carolina
+carbon,5192,172.25,USA|alabama,USA|georgia
+carbon,6033,55.68,USA|ohio,USA|pennsylvania
+carbon,5549,43.02,USA|tennessee,USA|alabama
+carbon,6098,42.75,USA|tennessee,USA|alabama
+carbon,5616,93.57,USA|virginia,USA|west virginia
+carbon,6087,34.24,USA|ohio,USA|west virginia
+carbon,6088,40.39,USA|ohio,USA|west virginia
+carbon,6115,93.57,USA|west virginia,USA|virginia
+carbon,6116,34.24,USA|west virginia,USA|ohio
+carbon,5868,46.41,USA|georgia,USA|south carolina
+carbon,5869,36.7,USA|georgia,USA|south carolina
+carbon,6058,48.57,USA|georgia,USA|south carolina
+carbon,6121,47.27,USA|georgia,USA|south carolina
+water,0,1756.71,Loire,Senegal
+water,2214,1752.82,Senegal,Loire
+water,3519,1798.95,Senegal,Loire
+water,7,29.51,Loire,Rhine
+water,1911,7.94,Rhine,Loire
+water,2174,58.73,Rhine,Loire
+water,9,48.82,Loire,Rhine
+water,2173,46.39,Rhine,Loire
+water,10,63.05,Loire,Rhine
+water,41,47.05,Mississippi River,Albany River
+water,1519,167.29,Albany River,Nelson River
+water,5001,44.01,Albany River,Mississippi River
+water,107,48.82,Loire,Rhine
+water,112,65.85,Bravo,Brazos River
+water,5086,17.43,Brazos River,Bravo
+water,5115,11.78,Brazos River,Bravo
+water,5123,14.6,Brazos River,Bravo
+water,124,29.51,Loire,Rhine
+water,173,134.32,Mississippi River,Albany River
+water,5325,86.43,Albany River,Mississippi River
+water,187,49.62,Mississippi River,Grisalva
+water,5355,28.62,Grisalva,Mississippi River
+water,5431,20.44,Grisalva,Mississippi River
+water,207,270.71,Colorado River (Pacific Ocean),Bravo
+water,4840,334.63,Bravo,Colorado River (Pacific Ocean)
+water,4868,261.33,Bravo,Colorado River (Pacific Ocean)
+water,239,29.51,Loire,Rhine
+water,257,29.51,Loire,Rhine
+water,357,212.35,Rhine,Elbe River
+water,3035,212.35,Elbe River,Rhine
+water,361,128.53,Brazos River,Bravo
+water,3451,12.33,Bravo,Brazos River
+water,371,65.95,St.Lawrence,Mississippi River
+water,1079,69.48,Mississippi River,St.Lawrence
+water,1784,94.44,Mississippi River,St.Lawrence
+water,1786,93.81,Mississippi River,St.Lawrence
+water,2070,90.05,Mississippi River,St.Lawrence
+water,5607,82.57,Mississippi River,St.Lawrence
+water,5831,82.57,Mississippi River,St.Lawrence
+water,6025,81.07,Mississippi River,St.Lawrence
+water,6076,64.22,Mississippi River,St.Lawrence
+water,394,6.14,Krishna,Godavari
+water,3324,16.98,Godavari,Krishna
+water,4225,6.14,Godavari,Krishna
+water,406,272.28,Colorado River (Pacific Ocean),Bravo
+water,490,164.89,Danube,Oder River
+water,2077,125.6,Oder River,Danube
+water,2078,149.38,Oder River,Danube
+water,3449,130.27,Oder River,Rhine
+water,3790,130.27,Rhine,Oder River
+water,493,301.09,Dniepr,Danube
+water,1946,323.13,Danube,Dniepr
+water,2072,328.32,Danube,Dniepr
+water,2073,328.32,Danube,Dniepr
+water,2074,339.45,Danube,Dniepr
+water,4631,323.66,Danube,Dniepr
+water,4632,301.09,Danube,Dniepr
+water,4773,315.33,Danube,Dniepr
+water,505,65.53,Danube,Rhine
+water,771,28.13,Rhine,Danube
+water,1648,70.12,Rhine,Danube
+water,1654,68.46,Rhine,Danube
+water,1656,65.26,Rhine,Danube
+water,4644,65.8,Rhine,Danube
+water,506,65.26,Danube,Rhine
+water,576,1802.76,Loire,Senegal
+water,577,123.64,Loire,Rhine
+water,2006,110.76,Rhine,Loire
+water,2844,110.7,Rhine,Loire
+water,591,133.5,Mississippi River,Albany River
+water,620,5.51,Oder River,Elbe River
+water,2494,5.51,Elbe River,Oder River
+water,625,169.48,Loire,Rhine
+water,1757,169.48,Rhine,Loire
+water,2049,169.48,Rhine,Loire
+water,2908,212.72,Rhine,Loire
+water,631,69.09,Elbe River,Rhine
+water,4378,69.09,Rhine,Elbe River
+water,632,6.14,Krishna,Godavari
+water,659,36.69,Elbe River,Rhine
+water,1316,53.4,Rhine,Elbe River
+water,1317,53.76,Rhine,Elbe River
+water,1324,36.69,Rhine,Elbe River
+water,3976,67.26,Rhine,Elbe River
+water,4370,53.88,Rhine,Elbe River
+water,708,172.27,Elbe River,Oder River
+water,3871,121.43,Oder River,Neva
+water,709,126.73,Oder River,Elbe River
+water,2478,126.73,Elbe River,Oder River
+water,2479,127.34,Elbe River,Oder River
+water,710,126.73,Oder River,Elbe River
+water,733,133.53,Elbe River,Oder River
+water,711,126.73,Oder River,Elbe River
+water,725,71.69,Rhine,Loire
+water,1207,168.49,Loire,Rhine
+water,2263,184.37,Loire,Rhine
+water,2305,182.6,Loire,Rhine
+water,2836,156.13,Loire,Rhine
+water,3279,71.69,Loire,Rhine
+water,3441,151.9,Loire,Rhine
+water,4227,155.82,Loire,Rhine
+water,730,62.68,Elbe River,Rhine
+water,2767,53.61,Rhine,Elbe River
+water,2837,56.64,Rhine,Elbe River
+water,4620,56.64,Rhine,Elbe River
+water,731,59.92,Elbe River,Rhine
+water,732,61.74,Elbe River,Rhine
+water,734,270.62,Colorado River (Pacific Ocean),Bravo
+water,739,53.53,Loire,Rhine
+water,986,103.08,Rhine,Loire
+water,1432,53.83,Rhine,Loire
+water,2048,30.35,Rhine,Loire
+water,4799,57.07,Rhine,Loire
+water,740,53.53,Loire,Rhine
+water,741,53.53,Loire,Rhine
+water,1386,106.02,Rhine,Loire
+water,1872,113.05,Rhine,Loire
+water,2047,60.88,Rhine,Loire
+water,3621,100.72,Rhine,Loire
+water,743,53.53,Loire,Rhine
+water,751,172.42,Loire,Rhine
+water,760,36.26,Loire,Rhine
+water,1978,46.93,Rhine,Loire
+water,4753,36.26,Rhine,Loire
+water,761,1752.82,Loire,Senegal
+water,768,33.84,Rhine,Danube
+water,770,28.13,Danube,Rhine
+water,769,33.5,Rhine,Danube
+water,2668,68.53,Rhine,Danube
+water,802,112.4,Danube,Oder River
+water,879,112.4,Oder River,Danube
+water,1349,77.71,Oder River,Wisla
+water,2533,112.73,Oder River,Danube
+water,3275,114.67,Oder River,Danube
+water,4693,112.4,Oder River,Danube
+water,4697,114.68,Oder River,Danube
+water,814,278.16,Rhine,Elbe River
+water,831,53.53,Loire,Rhine
+water,832,29.51,Loire,Rhine
+water,836,132.51,Mississippi River,Albany River
+water,4694,77.71,Wisla,Oder River
+water,4698,77.87,Wisla,Oder River
+water,934,1756.71,Loire,Senegal
+water,935,1756.71,Loire,Senegal
+water,969,52.87,Loire,Rhine
+water,2250,50.28,Rhine,Loire
+water,2251,51.61,Rhine,Loire
+water,2268,58.85,Rhine,Loire
+water,2827,50.45,Rhine,Loire
+water,970,50.28,Loire,Rhine
+water,980,6.14,Krishna,Godavari
+water,996,198.12,Brazos River,Mississippi River
+water,4765,45.65,Mississippi River,Brazos River
+water,4834,44.77,Mississippi River,Brazos River
+water,4847,44.77,Mississippi River,Brazos River
+water,997,90.55,Mississippi River,Albany River
+water,4199,100.68,Nelson River,Albany River
+water,4200,25.69,Albany River,Mississippi River
+water,1000,53.12,Loire,Rhine
+water,1070,64.64,St.Lawrence,Mississippi River
+water,1647,42.26,Mississippi River,St.Lawrence
+water,1664,138.94,Mississippi River,St.Lawrence
+water,2013,136.23,Mississippi River,St.Lawrence
+water,4876,133.24,Mississippi River,St.Lawrence
+water,4936,100.12,Mississippi River,St.Lawrence
+water,4946,123.15,Mississippi River,St.Lawrence
+water,4964,133.24,Mississippi River,St.Lawrence
+water,5994,140.99,Mississippi River,St.Lawrence
+water,6082,141.2,Mississippi River,St.Lawrence
+water,6083,84.87,Mississippi River,St.Lawrence
+water,1072,59.97,Rhine,Elbe River
+water,1346,81.99,Elbe River,Rhine
+water,2967,71.97,Elbe River,Rhine
+water,2983,82.36,Elbe River,Rhine
+water,2984,81.19,Elbe River,Rhine
+water,2985,71.97,Elbe River,Rhine
+water,2986,75.08,Elbe River,Rhine
+water,3287,59.97,Elbe River,Rhine
+water,5301,64.22,St.Lawrence,Mississippi River
+water,1112,172.17,Loire,Rhine
+water,1134,157.65,Brazos River,Mississippi River
+water,1157,271.21,Colorado River (Pacific Ocean),Bravo
+water,1191,30.35,Loire,Rhine
+water,1193,51.78,Loire,Rhine
+water,2825,71.69,Rhine,Loire
+water,1229,6.14,Krishna,Godavari
+water,1295,36.69,Elbe River,Rhine
+water,1338,67.47,Rhine,Elbe River
+water,1304,268.63,Oder River,Wisla
+water,1321,36.69,Elbe River,Rhine
+water,1794,53.4,Elbe River,Rhine
+water,1796,53.4,Elbe River,Rhine
+water,1344,116.01,Elbe River,Oder River
+water,1476,95.63,Oder River,Elbe River
+water,1477,99.94,Oder River,Elbe River
+water,1366,518.4,Mississippi River,Colorado River (Pacific Ocean)
+water,5522,513.86,Colorado River (Pacific Ocean),Mississippi River
+water,1367,518.4,Mississippi River,Colorado River (Pacific Ocean)
+water,1383,37.93,Oder River,Elbe River
+water,1385,42.26,Loire,Rhine
+water,3247,18.65,Rhine,Loire
+water,1388,42.26,Loire,Rhine
+water,1464,39.69,Grisalva,Mississippi River
+water,1661,27.21,Mississippi River,Grisalva
+water,1662,20.44,Mississippi River,Grisalva
+water,1944,27.07,Mississippi River,Grisalva
+water,1465,78.61,Rhine,Elbe River
+water,1808,53.61,Elbe River,Rhine
+water,2043,148.07,Elbe River,Oder River
+water,2284,95.63,Elbe River,Oder River
+water,3310,100.99,Elbe River,Oder River
+water,4618,101.04,Elbe River,Oder River
+water,1480,69.69,Elbe River,Rhine
+water,4980,25.69,Mississippi River,Albany River
+water,5101,39.33,Mississippi River,Albany River
+water,5409,44.01,Mississippi River,Albany River
+water,6013,42.4,Mississippi River,Albany River
+water,6021,134.38,Nelson River,Albany River
+water,1525,79.4,St.Lawrence,Mississippi River
+water,1532,90.92,Mississippi River,St.Lawrence
+water,1788,96.38,Mississippi River,St.Lawrence
+water,5143,74.11,Mississippi River,St.Lawrence
+water,5320,78.98,Mississippi River,St.Lawrence
+water,5389,97.23,Mississippi River,St.Lawrence
+water,3298,78.98,St.Lawrence,Mississippi River
+water,4118,81.29,St.Lawrence,Mississippi River
+water,5419,80.04,St.Lawrence,Mississippi River
+water,1550,334.62,Rhine,Elbe River
+water,1577,152.14,Elbe River,Neva
+water,4633,57.5,Neva,Elbe River
+water,4636,45.01,Neva,Elbe River
+water,4704,781.93,Neva,Elbe River
+water,1582,12.68,Loire,Rhine
+water,3802,11.86,Rhine,Loire
+water,4348,88.48,Rhine,Loire
+water,1587,319.69,St.Lawrence,Mississippi River
+water,4827,158.28,Mississippi River,St.Lawrence
+water,4844,158.28,Mississippi River,St.Lawrence
+water,6115,229.93,Mississippi River,St.Lawrence
+water,6116,205.82,Mississippi River,St.Lawrence
+water,4072,62.17,St.Lawrence,Mississippi River
+water,5150,88.04,St.Lawrence,Mississippi River
+water,5863,42.26,St.Lawrence,Mississippi River
+water,1658,318.79,Brazos River,Mississippi River
+water,1659,237.18,Elbe River,Neva
+water,5511,39.0,Grisalva,Mississippi River
+water,1663,6.14,Krishna,Godavari
+water,1754,50.28,Loire,Rhine
+water,1755,50.28,Loire,Rhine
+water,1893,171.62,Loire,Rhine
+water,3219,211.44,Loire,Rhine
+water,3233,172.4,Loire,Rhine
+water,5858,89.11,St.Lawrence,Mississippi River
+water,6041,89.3,St.Lawrence,Mississippi River
+water,1793,67.26,Elbe River,Rhine
+water,1795,42.26,Loire,Rhine
+water,1797,191.66,Elbe River,Neva
+water,1798,147.37,Neva,Oder River
+water,2308,121.18,Oder River,Neva
+water,4477,133.45,Oder River,Neva
+water,1850,163.56,Neva,Oder River
+water,1858,17.94,Bravo,Brazos River
+water,5102,149.94,Brazos River,Bravo
+water,1886,22.54,Loire,Rhine
+water,1897,65.1,Bravo,Brazos River
+water,2382,11.86,Loire,Rhine
+water,2596,15.85,Loire,Rhine
+water,3022,13.13,Loire,Rhine
+water,3845,29.51,Loire,Rhine
+water,4778,7.94,Loire,Rhine
+water,1943,60.72,Mississippi River,Grisalva
+water,4126,301.42,Dniepr,Danube
+water,2643,38.88,Loire,Rhine
+water,2644,36.26,Loire,Rhine
+water,2958,40.49,Loire,Rhine
+water,2959,40.39,Loire,Rhine
+water,2971,40.49,Loire,Rhine
+water,4020,38.25,Loire,Rhine
+water,1997,214.05,Rhine,Elbe River
+water,2025,110.7,Loire,Rhine
+water,2324,110.7,Loire,Rhine
+water,3072,122.71,Loire,Rhine
+water,3090,138.41,Loire,Rhine
+water,3091,113.88,Loire,Rhine
+water,4423,123.36,Loire,Rhine
+water,4865,145.37,St.Lawrence,Mississippi River
+water,2018,84.15,Oder River,Wisla
+water,2321,183.24,Wisla,Oder River
+water,2826,243.33,Wisla,Oder River
+water,3185,73.61,Wisla,Oder River
+water,2039,6.14,Krishna,Godavari
+water,2079,127.0,Danube,Oder River
+water,2169,164.54,Danube,Oder River
+water,2188,165.12,Danube,Oder River
+water,4217,127.95,Danube,Oder River
+water,4218,127.26,Danube,Oder River
+water,4219,125.6,Danube,Oder River
+water,4220,128.4,Danube,Oder River
+water,4223,128.77,Danube,Oder River
+water,4251,128.68,Danube,Oder River
+water,2096,5.88,Oder River,Elbe River
+water,2115,156.2,Oder River,Wisla
+water,2164,167.99,Wisla,Oder River
+water,2165,166.85,Wisla,Oder River
+water,2322,182.26,Wisla,Oder River
+water,4699,156.2,Wisla,Oder River
+water,2131,88.74,Brazos River,Mississippi River
+water,5792,76.57,Mississippi River,Brazos River
+water,2140,172.21,Neva,Oder River
+water,2948,52.7,Loire,Rhine
+water,3846,52.74,Loire,Rhine
+water,4239,46.39,Loire,Rhine
+water,2211,1754.87,Loire,Senegal
+water,2467,1756.71,Loire,Senegal
+water,2469,1754.24,Loire,Senegal
+water,2222,209.52,Nelson River,Albany River
+water,4164,86.77,Mississippi River,Albany River
+water,2225,179.06,Bravo,Brazos River
+water,5005,180.93,Brazos River,Bravo
+water,5780,201.51,Brazos River,Bravo
+water,5781,202.04,Brazos River,Bravo
+water,5783,191.49,Brazos River,Bravo
+water,6125,195.81,Brazos River,Bravo
+water,2226,183.66,Bravo,Brazos River
+water,2227,183.66,Bravo,Brazos River
+water,3822,172.21,Neva,Oder River
+water,4476,137.94,Neva,Oder River
+water,4478,121.18,Neva,Oder River
+water,2314,42.26,Loire,Rhine
+water,3238,75.6,Oder River,Wisla
+water,3239,75.48,Oder River,Wisla
+water,3240,73.61,Oder River,Wisla
+water,2350,42.26,Loire,Rhine
+water,2362,42.26,Loire,Rhine
+water,4002,133.37,Rhine,Loire
+water,2386,42.26,Loire,Rhine
+water,2421,261.68,Colorado River (Pacific Ocean),Bravo
+water,2492,5.51,Oder River,Elbe River
+water,2493,5.88,Oder River,Elbe River
+water,4201,36.58,Oder River,Elbe River
+water,4640,37.93,Oder River,Elbe River
+water,4641,5.53,Oder River,Elbe River
+water,2538,65.27,Bravo,Brazos River
+water,2539,65.85,Bravo,Brazos River
+water,2593,93.49,Danube,Rhine
+water,4209,90.88,Rhine,Danube
+water,2623,76.57,Brazos River,Mississippi River
+water,4853,172.7,Mississippi River,Brazos River
+water,2645,134.34,Mississippi River,Albany River
+water,2646,134.34,Mississippi River,Albany River
+water,2656,50.6,Mississippi River,Albany River
+water,2663,93.07,Mississippi River,Albany River
+water,2673,44.77,Brazos River,Mississippi River
+water,2720,6.14,Krishna,Godavari
+water,2721,6.14,Krishna,Godavari
+water,2757,90.59,Rhine,Elbe River
+water,2770,128.4,Mississippi River,Albany River
+water,2805,239.44,Brazos River,Mississippi River
+water,4563,208.96,Oder River,Wisla
+water,4564,208.96,Oder River,Wisla
+water,2862,303.83,Brazos River,Mississippi River
+water,2863,319.04,Brazos River,Mississippi River
+water,2926,200.52,Mississippi River,St.Lawrence
+water,4782,141.4,St.Lawrence,Mississippi River
+water,4952,74.11,St.Lawrence,Mississippi River
+water,5006,139.46,St.Lawrence,Mississippi River
+water,5874,51.46,St.Lawrence,Mississippi River
+water,4764,154.72,Rhine,Loire
+water,2979,209.05,Danube,Rhine
+water,3008,87.88,Brazos River,Mississippi River
+water,3009,88.74,Brazos River,Mississippi River
+water,3755,334.62,Rhine,Elbe River
+water,3134,87.88,Brazos River,Mississippi River
+water,3213,136.77,Danube,Rhine
+water,3732,42.26,Loire,Rhine
+water,3736,42.26,Loire,Rhine
+water,3737,42.26,Loire,Rhine
+water,3766,18.65,Loire,Rhine
+water,3255,270.72,Colorado River (Pacific Ocean),Bravo
+water,3290,95.26,Brazos River,Mississippi River
+water,4383,202.06,Danube,Oder River
+water,4864,146.48,Brazos River,Bravo
+water,4883,130.54,Brazos River,Bravo
+water,4902,129.57,Brazos River,Bravo
+water,5062,130.54,Brazos River,Bravo
+water,6107,12.33,Brazos River,Bravo
+water,3579,32.57,Loire,Rhine
+water,3642,2.17,Colorado River (Pacific Ocean),Columbia River
+water,4957,5.4,Columbia River,Colorado River (Pacific Ocean)
+water,5142,2.17,Columbia River,Colorado River (Pacific Ocean)
+water,5497,3.39,Columbia River,Colorado River (Pacific Ocean)
+water,3709,517.63,Mississippi River,Colorado River (Pacific Ocean)
+water,3710,521.4,Mississippi River,Colorado River (Pacific Ocean)
+water,3723,303.83,Brazos River,Mississippi River
+water,3753,212.47,Elbe River,Neva
+water,3787,47.05,Mississippi River,Albany River
+water,3788,49.14,Mississippi River,Albany River
+water,3807,168.24,Neva,Oder River
+water,3817,169.66,Neva,Oder River
+water,4117,90.88,Danube,Rhine
+water,4149,186.14,Danube,Rhine
+water,4150,182.54,Danube,Rhine
+water,4158,86.82,Elbe River,Rhine
+water,4165,158.28,St.Lawrence,Mississippi River
+water,6072,49.57,Mississippi River,Albany River
+water,4203,98.6,Danube,Rhine
+water,4242,47.91,Mississippi River,Albany River
+water,4254,33.2,Mississippi River,Grisalva
+water,4509,50.15,Mississippi River,Albany River
+water,4634,138.9,Elbe River,Neva
+water,4635,45.01,Elbe River,Neva
+water,4708,264.04,Elbe River,Neva
+water,4726,235.15,Elbe River,Neva
+water,4928,199.4,Brazos River,Mississippi River
+water,5545,303.92,Brazos River,Mississippi River
+water,6061,197.41,Brazos River,Mississippi River
+water,6062,213.15,Brazos River,Mississippi River
+water,4780,179.1,St.Lawrence,Mississippi River
+water,5568,51.46,Mississippi River,St.Lawrence
+water,5611,268.87,Mississippi River,St.Lawrence
+water,5616,237.18,Mississippi River,St.Lawrence
+water,5866,268.93,Mississippi River,St.Lawrence
+water,4852,227.69,St.Lawrence,Mississippi River
+water,5047,361.02,St.Lawrence,Mississippi River
+water,6117,369.97,St.Lawrence,Mississippi River
+water,6118,202.02,St.Lawrence,Mississippi River
+water,4828,159.86,Brazos River,Bravo
+water,5085,91.18,Bravo,Brazos River
+water,4830,159.86,Brazos River,Bravo
+water,5113,261.33,Colorado River (Pacific Ocean),Bravo
+water,5434,270.94,Colorado River (Pacific Ocean),Bravo
+water,4843,159.86,Brazos River,Bravo
+water,4845,11.78,Bravo,Brazos River
+water,5412,88.05,Brazos River,Mississippi River
+water,5493,88.07,Brazos River,Mississippi River
+water,6016,141.1,St.Lawrence,Mississippi River
+water,4880,135.53,Brazos River,Bravo
+water,4892,173.58,Mississippi River,Grisalva
+water,4897,94.07,Mississippi River,Albany River
+water,4905,91.78,Brazos River,Bravo
+water,4908,66.92,Mississippi River,St.Lawrence
+water,5870,66.92,St.Lawrence,Mississippi River
+water,4913,174.59,Brazos River,Bravo
+water,4944,526.74,Mississippi River,Colorado River (Pacific Ocean)
+water,5260,1.55,Colorado River (Pacific Ocean),Columbia River
+water,5369,1.63,Colorado River (Pacific Ocean),Columbia River
+water,4978,147.82,St.Lawrence,Mississippi River
+water,5070,74.97,Mississippi River,St.Lawrence
+water,5073,25.33,Bravo,Brazos River
+water,5130,170.97,Brazos River,Bravo
+water,5594,91.18,Brazos River,Bravo
+water,5100,150.61,Bravo,Brazos River
+water,5109,73.45,Mississippi River,St.Lawrence
+water,5144,4.7,Colorado River (Pacific Ocean),Columbia River
+water,5145,4.4,Colorado River (Pacific Ocean),Columbia River
+water,5764,4.73,Colorado River (Pacific Ocean),Columbia River
+water,5623,147.82,St.Lawrence,Mississippi River
+water,5876,133.94,St.Lawrence,Mississippi River
+water,5877,133.94,St.Lawrence,Mississippi River
+water,5878,148.43,St.Lawrence,Mississippi River
+water,6101,148.43,St.Lawrence,Mississippi River
+water,5160,1.09,Colorado River (Pacific Ocean),Columbia River
+water,5329,2.69,Columbia River,Colorado River (Pacific Ocean)
+water,5346,1.02,Columbia River,Colorado River (Pacific Ocean)
+water,5420,2.11,Columbia River,Colorado River (Pacific Ocean)
+water,5182,1.02,Colorado River (Pacific Ocean),Columbia River
+water,5250,75.34,Mississippi River,St.Lawrence
+water,5565,1.63,Columbia River,Colorado River (Pacific Ocean)
+water,5818,86.43,Mississippi River,Albany River
+water,5345,1.43,Colorado River (Pacific Ocean),Columbia River
+water,5401,2.26,Colorado River (Pacific Ocean),Columbia River
+water,5406,2.12,Colorado River (Pacific Ocean),Columbia River
+water,5472,2.55,Colorado River (Pacific Ocean),Columbia River
+water,6057,85.25,Mississippi River,Grisalva
+water,5402,1.8,Colorado River (Pacific Ocean),Columbia River
+water,5404,1.85,Colorado River (Pacific Ocean),Columbia River
+water,5405,1.81,Colorado River (Pacific Ocean),Columbia River
+water,5566,1.86,Colorado River (Pacific Ocean),Columbia River
+water,5506,521.39,Mississippi River,Colorado River (Pacific Ocean)
+water,5535,513.86,Mississippi River,Colorado River (Pacific Ocean)
+water,5613,76.13,Mississippi River,St.Lawrence
+water,5614,76.13,Mississippi River,St.Lawrence
+water,5867,76.13,Mississippi River,St.Lawrence
+water,6126,76.13,Mississippi River,St.Lawrence

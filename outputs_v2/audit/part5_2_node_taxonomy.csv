@@ -1,0 +1,4 @@
+resource,nodes,boundary_nodes,boundary_%,n_countries_with_boundary,n_regions_with_boundary
+electricity,4889,421,8.61,17,51
+carbon,4889,421,8.61,17,51
+water,4889,484,9.9,16,20
